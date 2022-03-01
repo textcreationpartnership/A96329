@@ -1,0 +1,909 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The danger of greatnesse: or Uzziah his exaltation and destruction: set forth in a sermon preached before the Right Honourable the Lords and Commons assembled in Parliament, and the reverend Assembly of Divines, in the church of Martins in the Fields, the 14th day of January, 1645. being a speciall day of humiliation set apart to seek God, for his direction in the setling of the great worke of church-government. / By Jeremiah Whitaker, a member of the Assembly of Divines.</title>
+            <author>Whittaker, Jeremiah, 1599-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96329</idno>
+            <idno type="STC">Wing W1711</idno>
+            <idno type="STC">Thomason E316_1</idno>
+            <idno type="STC">ESTC R200519</idno>
+            <idno type="EEBO-CITATION">99861241</idno>
+            <idno type="PROQUEST">99861241</idno>
+            <idno type="VID">113372</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113372)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E316[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The danger of greatnesse: or Uzziah his exaltation and destruction: set forth in a sermon preached before the Right Honourable the Lords and Commons assembled in Parliament, and the reverend Assembly of Divines, in the church of Martins in the Fields, the 14th day of January, 1645. being a speciall day of humiliation set apart to seek God, for his direction in the setling of the great worke of church-government. / By Jeremiah Whitaker, a member of the Assembly of Divines.</title>
+                  <author>Whittaker, Jeremiah, 1599-1654.</author>
+               </titleStmt>
+               <extent>[8], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for John Bellamie, at the sign of the three Golden-Lyons in Cornhill near the Royall-Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on leaf A1v.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Chronicles, 2nd XXVI, 15-16 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:113372:1"/>
+            <pb facs="tcp:113372:1"/>
+            <head>TO THE RIGHT HONOVRABLE The <hi>LORDS</hi> and <hi>COMMONS</hi> aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>Great Senatours:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>OD hath called you to action. Your time to hear is little, to read is leſſe, therefore there is need that your own prayers be more fervent: and that the ſupplications of others for you be the more frequent, and they that have the honour and truſt to preach before you, have the greater cauſe to deal uprightly, not as men-pleaſers, nor handling the word of God deceitfully: but that your hearts may be affected, that the word may come not in the letter only but in the power, and by the <hi>manifeſtation of the truth,</hi>
+               <note place="margin">2 Cor, 4 2.</note> 
+               <hi>they may commend themſelves</hi> (not to the <hi>eare</hi> or phanſie) <hi>but to every mans conſcience in the ſight of God.</hi>
+            </p>
+            <p>It is your wiſdome and ſafety to abhor to be flattered, to love to be ſearched, <hi>Hezekiah</hi> like, to ſpeak comfort<g ref="char:EOLhyphen"/>ably
+<pb facs="tcp:113372:2"/>to all that teach the good knowledge of the Lord.<note place="margin">2 Chro. 30 22.</note> 
+               <hi>David,</hi>
+               <note place="margin">1 Sam. 24 5.</note> a Prince both pious and prudent, a man after Gods own heart, yet felt ſomething in himſelf for which his heart ſmote him, and feared many other things, for which he cries to God, <hi>Let the righteous ſmite me, it ſhall be a kindeneſſe.</hi>—</p>
+            <p>It is the uſuall prudence of States, to be jealous, to fore-ſee every plot, to have an open ear to any that can diſcover the leaſt probability of danger: and though this often raiſeth needleſſe fears, yet its ſafer to fear danger where it is not, then not to fore-ſee and prevent danger where it is.—God hath ſet watch men upon the walls of <hi>Jeruſalem,</hi> and hath enjoyned them <hi>upon pain of death,</hi> that if they apprehend any danger coming, to blow the trumpet, and to give warning; and if any die for want of warning,<note place="margin">Ezech 33.3, 6</note> he is taken away in his iniquity, yet his bloud will I require at the watchmans hand.</p>
+            <p>You are not ignorant of Satans devices, his many plots againſt you, be never ceaſeth to be a tempter to all, but againſt you (mighty Worthies) his malice is moſt em<g ref="char:EOLhyphen"/>bittered and enraged: by you he hath been diſpoſeſſed and drivan into the wilderneſſe:<note place="margin">Mat 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.43.</note> he hath been wandring in dry places, ſeeking reſt, but findes none,—till he can re<g ref="char:EOLhyphen"/>enter. His deſire is to <hi>winnow you;</hi> if he can ruin you be knows he ruins the Kingdom, and all the Proteſtant party in Christendom with you: he that durst ſet on
+<pb facs="tcp:113372:2"/>Chriſt in the dayes of his fleſh, his malice is not now leſſe to attempt, nor is your power greater to reſiſt: he hath been hitherto tempting to overwhelme you with deſpair, to make your difficulty ſo great that your hands might be weakned from the worke,<note place="margin">Neh. 6 9.</note> but your God hath ſtrength<g ref="char:EOLhyphen"/>ened you to admiration, God hath made you a wall of braſse: he hath thrust ſore at you that yee might fall, but the Lord hath been your helper, &amp; hath ſcattered all temptations of this kinde as the chaffe upon the mount<g ref="char:EOLhyphen"/>ains. Now he hath no way left but to alter his tempta<g ref="char:EOLhyphen"/>tions, to transforme himſelf into an Angel of light: he ſees he cannot affright you, he will try to flatter you in<g ref="char:EOLhyphen"/>to ſelf-admiration and ſelf-confidence, and doubtleſse will do his utmoſt, ſince if he cannot ſcatter you by de<g ref="char:EOLhyphen"/>jection, to exalt you through abundance of revelations, and ſo ſecretly worke your ruin by preſumption. To diſ<g ref="char:EOLhyphen"/>cover and prevent this ſtratagem, was the earneſt de<g ref="char:EOLhyphen"/>ſire and endeavour of your humble ſervant in this Text and Sermon,<note place="margin">Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v. 1.17.</note> knowing that <hi>in vain is the net ſpread in the ſight of any bird.</hi> Now the great God of Heaven, and the Father of our Lord Ieſus Chriſt, that hath cho<g ref="char:EOLhyphen"/>ſen you, and ever helped you hitherto, rebuke Satan, pluck you as precious brands out of this fire alſo, and tread Satan and all temptations under your feet, and put this double honour upon you in the ſight of this Na<g ref="char:EOLhyphen"/>tion, and all the Kingdoms round about you, that the
+<pb facs="tcp:113372:3"/>whole earth may break forth into ſinging and ſay, Here is that Parliament which adverſity could not ſinke and proſperity cannot ſwell: who are taught of their God, to be low in their own eyes, when God hath made them high in the eyes of others; who whiles they rule over others, are moſt exact and exemplary in bearing rule over their own ſelves, and whiles they rule over men, deſire nothing more then to be juſt, ruling in the fear of God. This will be the crown of your triumphs, and will ſtop the mouths of all gainſayers, and ſet you upon that rock of eternity, that the gates of hell ſhall not prevail against you, and ſo confirm and eſtabliſh you, that this Parliament ſhall be called the repairer of the breach, the reſtorer of paths to dwell in, the joy of ma<g ref="char:EOLhyphen"/>ny generations; which is the earnest prayer of him, who deſires daily to be your remembrancer at the throne of grace, and who is</p>
+            <closer>
+               <signed>Your moſt humble ſervant, leſſe then the leaſt of all Saints, <hi>I. W.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113372:3"/>
+            <head>The Danger of Greatneſſe, <hi>OR, Vzziah</hi> his Exaltation and Deſtruction: IN A SERMON PREACHED Before the Right Honourable the LORDS and COMMONS aſſembled in PARLIAMENT, and the Reverend Aſſembly of DIVINES, in the Church of <hi>Martins in the Fields,</hi> the 14<hi rend="sup">th</hi> day of <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> 1645. being a ſpeciall day of Humiliation ſet apart to ſeek God, for his direction in the ſetling of the great worke of Church-Government.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 CHRON. 26.15, 16.</hi>
+                  </bibl>
+                  <p>He was helped marvellouſly, till he was made strong, but, when he was made strong, his heart was lifted up to his deſtruction.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E are met here this day as they at <hi>Ahavah,</hi> to <hi>afflict our ſelves before God, to ſeek of him a right way for our ſelves and our little ones,</hi>
+               <note place="margin">Ezra 8.21.</note> for the preſent and future generations. Like as <hi>a woman with childe, that draweth near the time of her delivery, is in pain,</hi>
+               <note place="margin">Iſa. 26.17.</note> 
+               <hi>and crieth out for pangs:</hi> ſo are we in the ſight of our God this day. The childe hath been a long time at the birth (we begin to fear leſt the wombe ſhould be over-great with it) hitherto we have not had ability or wiſedom to bring forth. The occaſion is very ſad, ſo is the text full of ſoul-melting expreſſions. The words, I read them not as a <hi>charge,</hi> but as a <hi>caution,</hi> they are a <hi>story,</hi> not a
+<pb n="2" facs="tcp:113372:4"/>
+               <hi>prophecy.</hi> A relation of a great man, a great Prince and Go<g ref="char:EOLhyphen"/>vernour in the Land of <hi>Judah,</hi> raiſed up to a miracle of eminen<g ref="char:EOLhyphen"/>cy, yet in his height is made low, his ſun goes down at noon<g ref="char:EOLhyphen"/>day, and all the brightneſſe of his glory ſets under a dark cloud.</p>
+            <p>The tragaedy is very dolefull, but I hope it is <hi>acted,</hi> not now in <hi>acting;</hi> we read it as a <hi>thing done,</hi> not now <hi>in doing.</hi> The good Lord keep it as a <hi>story,</hi> not a <hi>prophecy:</hi> a <hi>ſtory for us,</hi> not a <hi>ſtory of us,</hi> that after generations may not riſe up and write this ſad Epitaph upon your tombes, <hi>Here lyes that Parliament, that was helped marvellouſly, till it was made strong, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t Men they were made ſtrong, then,</hi> &amp;c. The former part of the next all the inhabitants of the world may apply to you, the viſion is plain in characters legible, the truth of it undeniable. God <hi>hath helped you marvellouſly,</hi> and out of weakneſſe the Lord hath made you ſtrong. For the later part, I ſay as <hi>Daniel,</hi> when he came to interpret the dream to <hi>Nebuchadnezzar, My Lord, let the dream be to them that hate you,</hi>
+               <note place="margin">Daniel 4.19.</note> 
+               <hi>and the interpretation to your and the Lords enemies.</hi>
+            </p>
+            <p>
+               <hi>Right Honourable,</hi> and the <hi>Heads of all our Tribes,</hi> God hath called you forth from among your brethren, and hath ſet you on high to be Phyſicians of this <hi>bleeding ſtate,</hi> this <hi>languiſhing dy<g ref="char:EOLhyphen"/>ing Church.</hi> You have need (as all Phyſicians have) to be well verſed in that part which is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, before you come to that which is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: the way to cure diſtempers, is to know the <hi>maladies</hi> before the <hi>remedies:</hi> and when diſeaſes have pro<g ref="char:EOLhyphen"/>ved complex and intricate, how have the later times adventured upon <hi>Anatomies,</hi> diffecting <hi>the dead;</hi> that they might preſerve <hi>the living?</hi> I bring you this day to a ſad Anatomy of a great man; give me leave to open how <hi>he roſe,</hi> how <hi>he became great,</hi> how <hi>he fell ſo ſuddenly, ſo irrecoverably,</hi> what was <hi>his diſeaſe,</hi> how he <hi>took the ſurfet,</hi> how the diſeaſe was bred, fomented, and became <hi>inſenſible,</hi> till it proved <hi>fatall.</hi> A dolefull ſpectacle, but our God would have us learn by <hi>precedents</hi> as well as by <hi>rules,</hi> elſe had he never added <hi>ſo many examples</hi> to his <hi>precepts.</hi> And all theſe things are <hi>written for our learning,</hi> and they <hi>happened to them as types and enſamples to us,</hi>
+               <note place="margin">Rom. 15.4.</note> and are recorded for <hi>our admonition,</hi>
+               <note place="margin">1 Cor. 10.11, 12.</note> 
+               <hi>upon whom the ends of the world are come, wherefore let him that thinks be ſtandeth, take beed leſt he fall.</hi>
+            </p>
+            <list>
+               <pb n="3" facs="tcp:113372:4"/>
+               <label>In the words be en<g ref="char:EOLhyphen"/>treated to conſider,</label>
+               <item>
+                  <list>
+                     <item>1. The Perſon here recorded.</item>
+                     <item>2. The enlargements beſtowed upon this perſon.</item>
+                     <item>3. His abuſe of thoſe enlargements.</item>
+                     <item>4. The miſeries that fell upon him for that abuſe.</item>
+                  </list>
+               </item>
+            </list>
+            <p n="1">1. The Perſon, ſet out to us by 1. His name here, <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> he is alſo called <hi>Azariah,</hi> 2 King. 14.21. 15.1, 7. 2. By his deſ<g ref="char:EOLhyphen"/>cent and function. Deſcent very high, a flouriſhing branch from the royall root of <hi>David.</hi> His function very eminent: in a good land, over a people, which God had called out to himſelf to be his peculiar treaſure. 3. His proſperity, higher then moſt of his predeceſſours: From the dayes of <hi>Jehoſhaphat</hi> till the reign of <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> the time had been very <hi>ſad to the people,</hi> and <hi>deſtru<g ref="char:EOLhyphen"/>ct ve to the Princes,</hi> for ſundry generations. You may read of <hi>Jehoram</hi> the ſon of <hi>Jehoſhaphat,</hi> a deſperate Politician, that the Lord <hi>ſmote him in his bowels with an incurable diſeaſe,</hi>
+               <note place="margin">2 Chron. 21.18, 19.</note> 
+               <hi>that his bowels rotted out by reaſon of his ſickneſſe. Ahaziah</hi> his ſon had but a ſhort reign, but <hi>one year,</hi> and then cut off by ſudden death,<note place="margin">2 Chron. 22.2.</note> for <hi>coming to lorain King of Iſrael, he fell into the hands of Iohn the ſon of Nimſhi who ſlew him.</hi>
+               <note place="margin">2 Chron. 22.9.</note> 
+               <hi>After him the houſe of Aba<g ref="char:EOLhyphen"/>ziah had no tower to keep the Kingdom. Athaliah</hi> his mother, riſes up <hi>and deſtroyes all the ſeed royall of the houſe of Iudah.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">ver. </seg>10</label> Her riſe and reign was unnaturall, her death was ſudden and vio<g ref="char:EOLhyphen"/>lent, being carried <hi>out of the honſe of the Lord,</hi>
+               <note place="margin">Cap. 23.15.</note> 
+               <hi>and ſlain by the ſouldiers. Ioaſh</hi> is miraculouſly preſerved, and for a time exalt<g ref="char:EOLhyphen"/>ed greatly, but after his heart departed <hi>from the Lord, and his own ſervants conſpired againſt him, and ſlew him in his own bed.</hi> After him <hi>Amaziah,</hi> a Prince of great abilities,<note place="margin">Chap. 24.25.</note> renowned a while for his victories, but revolting from God, there was a ſtrange <hi>conſpiracy againſt him in Ieruſalem, and being fled from the City to Lachiſh</hi> for his life, the violence of the people was ſo great, <hi>that they ſent to Lachiſh after him and ſlew him.</hi>
+               <note place="margin">Chap. 25.27.</note>
+            </p>
+            <p>It is wondred by Hiſtorians, how ſo many Kings of <hi>Iudah</hi> ſuc<g ref="char:EOLhyphen"/>ceſſively died ſo violently; and next to the hand of God, they aſ<g ref="char:EOLhyphen"/>cribe it to that errour in the Kings of <hi>Iudah,</hi> in too much affe<g ref="char:EOLhyphen"/>cting an arbitrary government. They delighted to have the law lye in their own boſomes; and having got great power into
+<pb n="4" facs="tcp:113372:5"/>their hands, they employed it rather to the advantage <hi>of their own deſignes,</hi> then the <hi>procuring the peoples welfare,</hi> account<g ref="char:EOLhyphen"/>ing the higheſt honour of ſovereignty, to conſiſt rather in <hi>being feared,</hi> then in <hi>being loved:</hi> and when the <hi>Princes remembred not their bounds in ruling,</hi> the <hi>people forgot their limits in obey<g ref="char:EOLhyphen"/>ing.</hi> Thus preſumptuous pollicy proved oppreſſive to the peo<g ref="char:EOLhyphen"/>ple, and in the end fatall to the Princes. The people embittered and enraged, lay violent hands upon their Rulers.</p>
+            <p>In theſe times of confuſion,<note place="margin">2 Chron. 26.1.</note> the people of <hi>Iudah</hi> take <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> a young Prince very hopefull, about 16 years old, and ſet him in the throne The government of <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> was happier then his progenitours, his victories far greater, and his reign far longer then any that ruled before, <label type="milestone">
+                  <seg type="milestoneunit">ver. </seg>3</label> for he reigned 52 years in <hi>Ieru<g ref="char:EOLhyphen"/>ſalem.</hi>
+            </p>
+            <p>If you aske his inward diſpoſition towards God, which is the main particular worthy enquiry, whether he was an upright man fearing God, there interpreters vary, and the queſtion is difficult. As <hi>Bedell</hi> anſwers the Apoſtat, demanding whether <hi>Henry</hi> 8<hi rend="sup">th</hi> was a good Prince, 'tis a hard thing to <hi>be a good man,</hi> much more hard to be a good Prince. Or as the <hi>Roman</hi> Oratour, who being deſired to declare his judgement, whether ſuch a man was a good Citizen, replied, If I ſhould not judge him good, of whom I have heard no ill, I ſhould wrong the perſon. Yet when I conſider how many things muſt concur to make one good, I ſhould wrong goodneſſe it ſelf, if I ſhould ſleightly give that title to unknown perſons: ſo here in this <hi>
+                  <g ref="char:V">Ʋ</g>zziah.</hi>
+            </p>
+            <p>The text alledged for both opinions, may ſeem ſomewhat du<g ref="char:EOLhyphen"/>bious. The reſult of all enquiries herein prove diſputable, not cogently concluſive. His <hi>commendations</hi> are very great. 1. <hi>He did that which was right in the ſight of the Lord,</hi> verſ. 4. that is one great argument of goodneſſe, not to pleaſe ourſelves, not to doe that which ſeems good in our own eyes, but in thoſe things that be croſſe to our ſinfull nature, and are repugnant to the courſe of a ſinfull world, in theſe things to diſpleaſe our ſelves, that we may pleaſe our God, is a great argument of integrity.</p>
+            <p>Secondly, It adds to his commendation, that <hi>he ſought the Lord, verſ.</hi> 5. and what courſe can you imagin better then to ſeek God? whom if we <hi>ſeek, we ſhall finde,</hi> and in <hi>finding whom,</hi> we ſhall
+<pb n="5" facs="tcp:113372:5"/>ſurely <hi>finde all good deſireable,</hi> all good whereof we are <hi>capable.</hi> His Saints are deſcribed frequently by this character, <hi>Pſal.</hi> 9.10.22.26.24.6 &amp;c.</p>
+            <p>Yet on the other ſide, to all theſe commendations are added termes of diminution: Which leaves his integrity queſtionable: for though</p>
+            <p>Firſt, he <hi>did that which was right in the ſight of God mate<g ref="char:EOLhyphen"/>rially,</hi> yet it was but according <hi>to all that Amaziah his father had done;</hi> it is not ſaid, as his <hi>father David,</hi> who was <hi>a man af<g ref="char:EOLhyphen"/>ter Gods own heart;</hi> but for <hi>Amaziah,</hi> the Scripture expreſſeth, he did what was <hi>right in the ſight of God,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">ver. </seg>4</label> 
+               <hi>but not with a perfect heart.</hi>
+            </p>
+            <p>Secondly, <hi>he ſought the Lord,</hi> a duty very <hi>good,</hi> if we ſeek him <hi>for himſelf,</hi> ſeek him to <hi>enjoy him,</hi> and place our happineſſe <hi>in communion with him;</hi>
+               <note place="margin">Quaerebant Ie<g ref="char:EOLhyphen"/>ſum, ſed non propter Ieſum, Gloſ. ordin. in <hi>John 6.</hi>
+               </note> and not ſeek him to ſerve our turns on him, as the Jews ſought our Saviour for loaves, and worldlings for <hi>corn and wine.</hi> For <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> he <hi>ſought the Lord,</hi> but its ad<g ref="char:EOLhyphen"/>ded, in the <hi>dayes of Zachariah,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">ver. </seg>5</label> 
+               <hi>who had underſtanding in the vi<g ref="char:EOLhyphen"/>ſions of God;</hi> which are like the expreſſions that God uſes before of <hi>Ioaſh,</hi> Chap. 24.2. <hi>Who did right all the dayes of Iehojada,</hi> but after the death of good <hi>Iohojada, Ioaſhes</hi> revolt is evident, 2 <hi>Chron.</hi> 24.17.</p>
+            <p>Thirdly, Sin of apoſtacy of <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> ſeems to be intimated, ver. 5. <hi>While he ſought the Lord he proſpered.</hi> However it was, the Lord hath left his name under a darke cloud, he hath ſet him as a <hi>Beacon on a mountain,</hi> and an <hi>Enſigne upon an hill.</hi> As Jud<g ref="char:EOLhyphen"/>ges hang up notorious malefactours in chains, to be a terrour to all ſpectatours: ſo hath the Lord done with <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> he hath his Epitaph writ with Gods own finger, and he cries to all that paſſe by the way, <hi>ſtand,</hi> and <hi>ſee,</hi> and <hi>remember,</hi> and <hi>conſider,</hi> that you may <hi>learn,</hi> and <hi>fiar,</hi> and <hi>do no ſuch thing.</hi> God doth not only gibbet his open adverſaries; as its ſaid of <hi>Doeg,</hi> the righteous ſhall ſee, and fear, and ſay, Lo, this is the man that made not God his ſtrength, <hi>&amp;c.</hi> but the Lord records the <hi>luſts if his Saints, as well as the graces.</hi>
+            </p>
+            <p>From the words thus opened, according to the four parts afore<g ref="char:EOLhyphen"/>mentioned, obſerve,</p>
+            <p n="1">1. That men may do many things which are <hi>materially right</hi>
+               <pb n="6" facs="tcp:113372:6"/>in the ſight of the Lord, and yet themſelves either not <hi>be upright,</hi> or if they <hi>be upright for the main,</hi> yet in ſome particulars they may viſibly decline from that <hi>uprightneſſe.</hi>
+            </p>
+            <p n="2">2. Whiles perſon or people continue to do that which is right in the <hi>eyes of the Lord,</hi> Gods uſuall way is, to <hi>helps them won<g ref="char:EOLhyphen"/>derfully.</hi>
+            </p>
+            <p n="3">3. When God helps perſons or people <hi>wonderfully</hi> till they be <hi>made ſtrong,</hi> then it is the greateſt danger of all, and an evil moſt common among men <hi>to be lifted up.</hi>
+            </p>
+            <p n="4">4. When ſinfull creatures, after wonderfull deliverances, ſuffer themſelves to <hi>be lifted up,</hi> then all their <hi>riſe</hi> is but the fore-runner <hi>of ruin,</hi> their <hi>lifting up,</hi> is but <hi>for caſting down,</hi> and the iſſue is this, it ends in their greater deſolation. Thus they that have been choiſe inſtruments in the hands of God, the Lord may lay them aſide, as <hi>deſpiſed broken veſſels</hi> in whom <hi>his ſoul hath no pleaſure</hi> to employ them any further: as <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> his heart was lifted up to his deſtruction.</p>
+            <p>Men may doe many things <hi>right materially</hi> in the ſight of the Lord, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> and yet themſelves either may not <hi>be upright,</hi> or in parti<g ref="char:EOLhyphen"/>culars fall from <hi>their uprightneſſe;</hi> in opening whereof conſider two partienlars.</p>
+            <p n="1">1.<note place="margin">Firſt part of the Doctr. cleared.</note> They may not be <hi>upright,</hi> who do things that <hi>are material<g ref="char:EOLhyphen"/>ly right in the ſight of the Lord.</hi> I adde materially right: The action for the ſubſtance of it abſtracted and conſidered in it ſelf, may be ſuch as God <hi>commands, commends</hi> and <hi>rewards:</hi> but if we take an action formally with the Motives, Ends, and all other neceſſary circumſtances required to make an act truly right, then it is certain, that <hi>where the tree is evil, it cannot bring forth good fruit.</hi> Auguſtin <hi>contrae Iulian. lib.</hi> 4. diſputes the queſtion large<g ref="char:EOLhyphen"/>ly of <hi>Iulian</hi> the Pelagian, proving that all vertues of Gentiles, and works of unbeleevers are but vices: that their chaſtity ſo much admired was not chaſt, becauſe chaſtity hath in ſeal in the ſoul more then in the body.<note place="margin">
+                  <hi>1.</hi> Fatear primo virtutem eſſe pudicitiam. <hi>2.</hi> Omnes vir<g ref="char:EOLhyphen"/>tutes quae per sorpus operantur in anima habitare. <hi>3.</hi> Infidelia ani<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am fornicari à Deo no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>potiſt negort. Ergo ant in anima <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 1. How can that perſon be chaſt and free from ſpirituall fornication, whoſe minde goes a whoring from the Lord?</p>
+            <p n="2">
+               <pb n="7" facs="tcp:113372:6"/> 2. <hi>Inlian</hi> objects the integrity of <hi>Fabritius;</hi>
+               <note place="margin">
+                  <hi>2.</hi> Qul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corom qui ſe Chriſtianes habert volunr (niſi Pelagiani, aut in ip<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> forte its ſolu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) juſtum dia<g ref="char:EOLhyphen"/>crit infidele<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, impiu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> diabole mancipatum? Abſit ut ſit virtue vera in alique niſi ſit juſtus, cum nemo juſtus ſine fide. <hi>Hab. 2.4.</hi>
+               </note> 
+               <hi>Fabius, Scipio, Regulus,</hi> he anſwers, How can true juſtice be in them who are not juſt? How could they be juſt, and not have faith, when the <hi>juſt ſhall live by faith?</hi>
+            </p>
+            <p n="3">3. How can any thing be abſolutely right; that aimes not at a right end?<note place="margin">
+                  <hi>3.</hi> Nibit bonum niſi referatur ad ſumwum bonum, &amp; hoc po<g ref="char:EOLhyphen"/>teſt nemo niſi per Chriſtum, cu<g ref="char:EOLhyphen"/>jus morte mers vincitur, cujus vulneribus natura natura ſa<g ref="char:EOLhyphen"/>ratur.</note> Nothing is for<g ref="char:EOLhyphen"/>mally good, that is not referred to the chiefeſt good.</p>
+            <p n="4">4. Vertues and vices are diſtinguiſhed, not by bare acts performed, but by ends intended; a co<g ref="char:EOLhyphen"/>vetous perſon abſtains from revenging himſelf by Law, not our of love to mercy, but money,<note place="margin">
+                  <hi>4.</hi> Virtutes ac vitijs non offi<g ref="char:EOLhyphen"/>cijs ſed fraibai diſcernuntur. Of<g ref="char:EOLhyphen"/>firium eſt quod faciendum, finis eſt propter quod faciendum.</note> leſt the coſt (after all contention) recovered, ſhould not anſwer the charges in recovering.<note place="margin">
+                  <hi>5.</hi> Poſſunt bona fieri non bene fatientrcus, ſubvenire pericli<g ref="char:EOLhyphen"/>tanti hoc malum, ſed ſi amore gloriae bominis ſit, non bene bo<g ref="char:EOLhyphen"/>num facit.</note>
+            </p>
+            <p n="5">5. An ambitious perſon relieves the poor, rights the oppreſſed, this is good, but if it be to be ſeen of men, he doth that which is right, but not righ<g ref="char:EOLhyphen"/>teouſly.<note place="margin">
+                  <hi>6.</hi> Ni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bonum bene niſi volunt as bonas volunt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s non eſt bona, que in alijs vet in ſeipſa, non in Deo gloriatur.</note>
+            </p>
+            <p n="6">6. No right done righteouſly, unleſſe the minde be right; but he is not right that deſires more to glory in himſelf or creatures, then in the Lord.</p>
+            <p>The acts of the unregenerate in themſelves nakedly conſider<g ref="char:EOLhyphen"/>ed,<note place="margin">Vid. Voſſium.</note> ſome of them may be right, yet their perſons are not righ<g ref="char:EOLhyphen"/>teous; and their acts if compleatly conſidered, are extreamly in<g ref="char:EOLhyphen"/>compleat: either, 1. <hi>Swerving from the right rule,</hi> Col 2.23. Iſa. 29.13. 2. Or <hi>not aiming at aright end, Gods glory.</hi> 1 Cor. 10.31. Mat. 5.16. Or, 3. Not proceeding <hi>from a good ground, ſincerity of love.</hi> Rom. 13.10. 1 Tim. 1.5. Or, 4.<note place="margin">Rom. 14.23. Heb. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.6.</note> Or <hi>not mixed with faith, and whatſoever i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not of faith is ſin, and without faith it is impoſſible to pleaſe God.</hi> 5. Being void of faith and love, the act is carried to <hi>an end;</hi> that is either <hi>not good,</hi> or <hi>if good,</hi> its ſome <hi>particular good,</hi> not that good which <hi>is univerſall.</hi>
+            </p>
+            <p>But though the h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art of <hi>men</hi> be not upright, yet they may do many things that in themſelves <hi>are right.</hi> 1. Such acts as are <hi>commanded</hi> for the matter of them: 2. Such as whereby na<g ref="char:EOLhyphen"/>turall <hi>conſcience</hi> any be <hi>quiet,</hi> Rom. 2.15. 3. Whereby Gods
+<pb n="8" facs="tcp:113372:7"/>will in part is <hi>fulfilled,</hi> as the <hi>Aſſyrian</hi> did upon <hi>Ieruſalem,</hi> 4.<note place="margin">Iſa. 10.</note> Whereby <hi>other men may be benefited.</hi> 5. Whereby in the day of their account, though <hi>their ſouls be not ſaved,</hi>
+               <note n="*" place="margin">Minus Fabri<g ref="char:EOLhyphen"/>tius quam Cati<g ref="char:EOLhyphen"/>lina punietur, non quia iſte bonus, ſed quia ille magis ma<g ref="char:EOLhyphen"/>lus, minus impius Fa<g ref="char:EOLhyphen"/>britius quam Catilina, non veras virtutes habendo, ſed à veris virtuti<g ref="char:EOLhyphen"/>bus non plurias <g ref="char:cmbAbbrStroke">̄</g>u deviando. <hi>Au<g ref="char:EOLhyphen"/>guſt.</hi> ibid.</note> yet their torments <hi>may be leſſened:</hi> and ſo right, 6. As <hi>God</hi> in this life may acknowledge them to <hi>their praiſe,</hi> and <hi>reward them</hi> for <hi>their comfort.</hi> I need not ſpend time in examples, <hi>Ahab,</hi> 1 King. 21.29. <hi>humbles himſelf greatly,</hi> therefore <hi>evil</hi> defer<g ref="char:EOLhyphen"/>red. <hi>Iebu</hi> in a great zeal, deſtroyes the worſhip and worſhipper<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Baal.</hi> God commends the act for good, in 2 <hi>King.</hi> 10.30.31. <hi>Thou hast done well in executing that which was right is mine eyes:</hi> But he condemns his heart <hi>to be bad. Ioaſh</hi> did that which was <hi>right in the ſight of the Lord,</hi> yet <hi>he and his Princes forſook the Lord, and ſerved Idols, and ſo wrath came upon Iudah and Ieruſulem,</hi> for this their treſpaſſes.</p>
+            <p>
+               <hi>Amaziah</hi> goes far in denying his own credit, diſdeigning an arm of fleſh, disbanding an hundred thouſand mighty men of <hi>va<g ref="char:EOLhyphen"/>lour,</hi> at the voice of the Prophet,<note place="margin">2 Chron. 24.2. &amp; 18.</note> chuſing rather to adventure <hi>their anger,</hi> and the loſſe of his <hi>hundred</hi> talents, then to diſobey the voice of his God.<note place="margin">2 Chron. 25.6, 7. comp. with ver. 2.</note> What externall act of a Prince could be more right? yet his heart was not upright: He <hi>did much,</hi> but not with a <hi>perfect beart.</hi>
+            </p>
+            <p>Many a man, whoſe inward parts are very rottenneſſe, may fre<g ref="char:EOLhyphen"/>quent all ordinances, loving all outward priviledges, be very for<g ref="char:EOLhyphen"/>ward in any externall performance, repreſſe ſin in others, and be employed as an happy inſtrument to reform others, when his own heart abides to his dying day unregenerate.</p>
+            <p>If you ask the reaſon, how are rationall men carried to things right, and yet their hearts not upright? I anſwer.</p>
+            <p n="1">1. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> From the ſtrength of externall ordinances diſpenſed <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſh,</hi> all the dayes of <hi>Iehojada,</hi>
+               <note place="margin">2 Chron. 24.6.</note> is forward in reformation, his zeal more forward then the Prophets. <hi>Herod,</hi> under the Miniſtery of <hi>Iohn,</hi>
+               <note place="margin">Mark. 6.10.</note> had his conſcience overawed, <hi>did many things, and beard him gladly.</hi>
+            </p>
+            <p n="2">2. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> From common grace received, corruptions are o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>kepti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by restraining grace,</hi> when the heart is <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> grace,</hi> and <hi>luſts</hi> are not only <hi>reſtrained,</hi> but many <hi>common gifts and graces</hi> may be <hi>conferred.</hi> There <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that go far towards the Kingdom of God, yet fall ſhort of it; their mindes enlight<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed.
+<pb n="9" facs="tcp:113372:7"/>and taſte of the heavenly gift, be made partakers of the Holy Ghoſt, in the common works of it,<note place="margin">Heb. 6.4, 5, 6.</note> taſte of the good word of God, and powers of the world to come, and yet all this while the heart continues falſe, and after, the relapſe may prove ſo great, as that it is impoſſible for them to be renewed again unto repentance.</p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> From naturall <hi>conſcience,</hi> it may be <hi>awakened,</hi> and ſome<g ref="char:EOLhyphen"/>thing muſt be done to ſtill thoſe clamours, to allay thoſe ſurges:<note place="margin">Rom. 2.15.</note> 
+               <hi>worſt of men,</hi> ſcarce ſo <hi>bad,</hi> but may at ſome times do <hi>ſome good. Doeg.</hi> is <hi>detained before the Lord,</hi> by his vow: the wicked <hi>Jews,</hi>
+               <note place="margin">1 Sam. 21.7.</note> that made no conſcience of killing the Lord of glory, yet ſay, it is not <hi>lawfull to put the price of bloud into the treaſure:</hi>
+               <note place="margin">Mat. 27.6.</note> that wic<g ref="char:EOLhyphen"/>ked ſtrumpet, that meets the young man to allure him, ſaid, <hi>I have peace-offerings with me, I have paid my vows this day,</hi>
+               <note place="margin">Prov. 7.14.</note> 
+               <hi>therefore came I forth to meet thee. Therefore,</hi> ſaith ſhe. What ſoul without the height of impudence could have drawn ſo pro<g ref="char:EOLhyphen"/>phane a concluſion from ſuch pious premiſſes? as to infer, I have pacified the Lord, therefore I may be bolder to provoke him. Take heed of a ſeduced conſcience, and do not reſt in ſome outward common duties which the worſt may perform, and be under power of Satan. Thoſe lewd women which lay with the prophane ſons of <hi>Eli,</hi> pretend ſanctity,<note place="margin">1 Sam. 2.22.</note> and <hi>aſſembled them<g ref="char:EOLhyphen"/>ſelves at the door of the Tabernacle of the Congregation,</hi> as if they deſired to be ſervants of the Lord, when indeed they were Satans drudges.</p>
+            <p n="4">4. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> From Satans connivence. It is not againſt his Kingdom, to let men do ſomething that is right; their ſelf-confidence hereby grows the higher, and his deluſions prove the ſtronger: He permits all perſons and Nations to have ſome Religion: he cares not who hath the mouth or the lips, ſo he poſſeſſeth the heart;<note place="margin">Luk. 11.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and <hi>whiles the ſtrong man keeps the houſe</hi> all things are in peace.</p>
+            <p n="5">5. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>5</label> From worldly concurrences. Nothing more ſutable to car<g ref="char:EOLhyphen"/>nall ends at ſometimes, then to do ſomething that is right. <hi>Iohn</hi> is forward in that part of reformation which was <hi>deſtructive</hi> to <hi>Baal,</hi> it was the only way to <hi>ſecure him in his throne:</hi> but in the <hi>poſitive</hi> part he was found altogether <hi>defective,</hi> and from the <hi>ſins of Ieroboam that made Iſrael to ſin,</hi>
+               <note place="margin">2 King. 10.31.</note> 
+               <hi>did not he depart all his dayes.</hi> Its an eaſie thing to <hi>reform</hi> thoſe evils, which if <hi>they ſtand
+<pb n="10" facs="tcp:113372:8"/>up</hi> will <hi>keep us low,</hi> and till they be <hi>laid low,</hi> we cannot <hi>get up.</hi> In the dayes of <hi>Ioſiah,</hi> the people were marvellouſly forward in the worke of reformation;<note place="margin">1 Chro. 34.31. c. 35.18.</note> they enter into ſolemn Covenant, keep the Paſſeover ſo religiouſly, that from the dayes of <hi>Samuel,</hi> there was no ſuch Paſſeover; neither did all the Kings of <hi>Iſrael</hi> keep ſuch a Paſſeover as <hi>Ioſiah</hi> kept, and the Prieſts, and Levites, and all <hi>Iudah</hi> and <hi>Iſrael</hi> that were preſent; but no ſooner was <hi>Ioſiah</hi> dead, but all this reformation died with him. Yet ſup<g ref="char:EOLhyphen"/>poſe that <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> was upright, though the arguments uſed to prove it, be not cogent, yet his excellencies were ſo many, and his commendations from God ſo great, that moſt Interpreters incline to eſteem this opinion to be not only more charitable, but alſo in nothing to be leſſe probable in it ſelf. If ſo: then you may obſerve;</p>
+            <p>
+               <hi>That its poſſible for men in the main to be upright,</hi>
+               <note place="margin">Here obſerve this ſecond particular.</note> 
+               <hi>yet in ma<g ref="char:EOLhyphen"/>ny particulars they may decline from their uprightneſſe,</hi> though in the truly regenerate there can be no <hi>interciſion</hi> of grace, which <hi>is totall,</hi> becauſe they are born <hi>of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> immortall ſeed of the word,</hi>
+               <note place="margin">1 Ioh. 3.9.</note> and <hi>that ſeed abideth in them:</hi> nor <hi>finally,</hi> becauſe God hath promiſed to give them <hi>ſuch an heart,</hi> as <hi>they ſhall not ſo depart from him,</hi>
+               <note place="margin">Ier. 32.40. 1 Pet. 1.5. 1 Ioh. 4.4.</note> and they are <hi>kept through the power of God unto ſalva<g ref="char:EOLhyphen"/>tion: Greater is he that is in them, then he that is in the world:</hi> and thoſe ſpeciall <hi>gifts of grace,</hi> when men are effectually called of God <hi>according to his purpoſe,</hi>
+               <note place="margin">Rom. 11.19.</note> they are <hi>without repentance</hi> on <hi>Gods part,</hi> who doth beſtrow them, and on the <hi>ſinners part</hi> that doth receive them;<note place="margin">2 Cor. 7.10.</note> for <hi>repentance unto ſalvation is never to be repented of,</hi> becauſe the ſoul of a poor ſinner that is converted to Chriſt, <hi>findes more good in Christ</hi> tranſcendently above all that it was poſſible for a man in a ſtate of nature to imagin. But upright men, though they cannot fall away either <hi>totally</hi> or <hi>fi<g ref="char:EOLhyphen"/>nally,</hi> yet they may decline in many particulars <hi>really, viſibly;</hi> ſo far as that in reſpect of <hi>gifts and graces,</hi> and in reſpect <hi>of uſe and ſervice to others,</hi> and of comforts to themſelves, it may not be with them as in former times: their ſun may go down at noon, and their lamp, to the eye of men, may be put out in obſcure darkneſſe. <hi>Aſa</hi> that mighty Prince, both good and great, of whom the Lord gives this teſtimony, though the high-places were not removed,<note place="margin">2 King. 15.14.</note> nevertheleſſe <hi>Aſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s heart was perfect with
+<pb n="11" facs="tcp:113372:8"/>the Lord all his dayes,</hi> yet this <hi>Aſa</hi> ſinneth,<note place="margin">2 Chron. 16.3. ver. 7.</note> in <hi>hiring Benhadad the King of Syria,</hi> to break his league with <hi>Baaſha, in not rely<g ref="char:EOLhyphen"/>ing upon the Lord,</hi> in not hearkning to the admonition of <hi>Ha<g ref="char:EOLhyphen"/>naniah:</hi> When he had thus ſinned, he could not endure to be re<g ref="char:EOLhyphen"/>proved, a very ſad diſtemper, that a good man ſhould be ſo far tranſported with luſts,<note place="margin">ver. 10.</note> that he had rather undergo the <hi>diſeaſe that would kill him,</hi> then <hi>endure the medicine that would heal him: Aſa</hi> was wroth with the <hi>Seer, and put him in the priſon-houſe.</hi> for he <hi>was in a great rage,</hi> not at his <hi>own ſin,</hi> but at the reproof of the Prophet: At that time alſo <hi>Aſa</hi> oppreſſed ſome of the people. When corruptions are ſwelled ſo high that they cannot endure <hi>admonition,</hi> there is no poſſibility left to keep them within any <hi>bounds of moderation.</hi> And to all theſe ſad declinings, there is added in the cloſe, when he was upon his death-bed,<note place="margin">ver. 12.</note> when his diſeaſe in his feet was very great, yet in his diſeaſe <hi>he ſought not to the Lord, but to the Phyſician.</hi>
+            </p>
+            <p>If men may go ſo far in doing things that are right, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> when themſelves all that while are not upright: then</p>
+            <p n="1">1.<note place="margin">Mution dix<g ref="char:EOLhyphen"/>tram ſuam li<g ref="char:EOLhyphen"/>bens in are re<g ref="char:EOLhyphen"/>liquit. O ſubli<g ref="char:EOLhyphen"/>mit as animi I Regul<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ne unus pro multis vi<g ref="char:EOLhyphen"/>veret, toto cor<g ref="char:EOLhyphen"/>pore cruces pa<g ref="char:EOLhyphen"/>titur. O virum fortem &amp; in captivitate victorem! <hi>Ter<g ref="char:EOLhyphen"/>tul. Apol. 2 Cor. 11.14, 15.</hi>
+               </note> Let every man be aſhamed to fall ſhort of that which men have attained to that want uprightneſſe, let not Pagans outſtrip Chriſtians. Shall a <hi>Mutius</hi> be more couragious, a <hi>Regulus</hi> more faithfull among them that are without, then a ſeeming <hi>Cephas</hi> or <hi>Apollo</hi> among them that are within? ſhall an <hi>Ahab humble himſelf greatly,</hi> a <hi>Iehn reform abuſes of worſhip ſtre<g ref="char:EOLhyphen"/>nuouſly,</hi> ſhall an <hi>Herod</hi> do many things at the preaching of <hi>Iohn Baptiſt,</hi> ſhall Satan and his meſſengers transform themſelves into Angels of light, and ſhall the children of the light lye co<g ref="char:EOLhyphen"/>vered under obſcure darkneſſe? Shall a generation of men that knew not God, that were ſtrangers from the Covenant of grace, that never called upon God, ſhall oppoſers go beyond profeſ<g ref="char:EOLhyphen"/>ſours? and they that could not endure ſo much as the form of godlineſſe, ſhall they do things more <hi>juſtly, leſſe partially,</hi> then thoſe that profeſſe the power of it? Surely our <hi>light is clearer,</hi> our <hi>rule is purer,</hi> our <hi>Master</hi> whom we ſerve is <hi>better,</hi> our <hi>hopes</hi> are <hi>higher,</hi> the <hi>rewards we expect</hi> are <hi>greater:</hi> ſhall we only in <hi>our lives be worſe,</hi> when in all other <hi>priviledges we are better?</hi> What condition can be more ſad,<note place="margin">Ezek. 16.24.</note> then that <hi>Judah</hi> ſhould be guilty of more abominations then <hi>Sodom</hi> and <hi>Samaria?</hi> and
+<pb n="12" facs="tcp:113372:9"/>what ſentence more juſt,<note place="margin">Mat. 12.21, 22.</note> then that God ſhould make <hi>Nineveh</hi> riſe up and condemn this generation, and ſhould pronounce that dreadfull ſaying;<note place="margin">Mat. 11.22, 24.</note> 
+               <hi>It ſhall be eaſier for Sodom and Gomorrah, for Tyre and Sydon in the day of judgement then for you?</hi>
+            </p>
+            <p n="2">2. As we ſhould not come ſhort of them that have done righ<g ref="char:EOLhyphen"/>teous things, when themſelves have been unrighteous: So we ſhould never content our ſelves with any <hi>common grace recei<g ref="char:EOLhyphen"/>ved,</hi> with any <hi>externall act performed,</hi> till the Lord by an inward ſpirituall change hath carried us into a ſtate beyond a reprobate: thus far a <hi>reprobate</hi> may go. Let not thy ſoul ſtay here, do you not all <hi>expect distinguiſhing comforts</hi> when you dye? Why to you <hi>not ſeek diſtinguiſhing graces</hi> while you live? Will a righteous God ſever thee from the wicked <hi>in thy death,</hi> when thou art not at all ſevered from the wicked <hi>in thy life?</hi> It was a wiſe reſolution of that great Prince,<note place="margin">Three things conſiderable in man; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, there three have ſeverall delights; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> An<g ref="char:EOLhyphen"/>tooin. Pius, <hi>l.</hi> 3, 2, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> ſirnamed <hi>Pius,</hi> If my de<g ref="char:EOLhyphen"/>lights be only thoſe of ſenſe and pleaſure, theſe are common to brute beaſts, whoſe ſenſitive comforts may be greater, becauſe their ſenſes are ſtronger; if my delight be only to fulfill the will of the fleſh and of the minde, and to do whatever ſeems good to an eye of carnall ſenſe and reaſon, this is common to men, with <hi>Phalaris,</hi> and <hi>Nero,</hi> and the like, who were rather monſters then men. If in duties of an higher nature, I only minde thoſe that are plauſible to the world, this is no more then they may do who deny God, will betray their Countrey when it may be for their credit and advantage, and like them who when the doors were ſhut, and the curtains drawn, account nothing <hi>filthy or unlawfull that is delightfull:</hi> if all theſe things be common to the good and to the bad, ſurely there is ſomething that is peculiar to the good; As to enjoy comforts moderately, to endure diſcomforts patient<g ref="char:EOLhyphen"/>ly, to keep a contented quiet minde within in the midſt of all the ſtorms without, in life to overcome the fear of death, <hi>&amp;c.</hi> Our Saviour leads us higher, bids us <hi>deny our ſelves, take up his croſſe, and follow him,</hi> count all things <hi>but loſſe and dung to win Christ,</hi> and aſſures us, without theſe <hi>we cannot be his Diſciples,</hi> that all perſwaſions to the contrary are meer preſumptions, and in the iſſue will betray the ſoul into the hands <hi>of the King of ter<g ref="char:EOLhyphen"/>rours;</hi> for except your righteouſneſſe ſhall not only equall, but <hi>exceed the righteouſneſſe of the Scribes and Phariſees,</hi>
+               <note place="margin">Mat. 5.10.</note> 
+               <hi>ye ſhall
+<pb n="13" facs="tcp:113372:9"/>in no caſe enter into the Kingdom of Heaven.</hi> Reſt not therefore in that which men <hi>may want,</hi> and be <hi>happy,</hi> which men may <hi>en<g ref="char:EOLhyphen"/>joy,</hi> and yet be <hi>miſerable.</hi>
+            </p>
+            <p n="3">3. If men may do things that are right, and yet not be up<g ref="char:EOLhyphen"/>right, then let no man account himſelf, becauſe he doth ſomething that is right, that therefore he is righteous,<note place="margin">Non minus ſine ſacramentis ſal<g ref="char:EOLhyphen"/>vatus eſt latro, quaem cum ſa<g ref="char:EOLhyphen"/>crament is con<g ref="char:EOLhyphen"/>demnatus eſt tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as <hi>Auguſt.</hi>
+               </note> that you are heirs of life (becauſe you dwell under living ordinances:) the Sacra<g ref="char:EOLhyphen"/>ments may be full of life to others, not to you; God who works by them, can alſo worke without them. God may uſe you as great and glorious inſtruments in his hands, and by you bring <hi>mighty, things to paſſe,</hi> and yet the heart be not at all renewed. God knows how to uſe <hi>fooliſh things wiſely, weak things ſtrongly,</hi> inſtruments that in themſelves <hi>are bad,</hi> to ends <hi>very good. Jehn</hi> is employed to pull down <hi>Baal,</hi> and the <hi>houſe of Ahab</hi> that ſet <hi>Baal up.</hi> Many were uſed to build the Ark that ſaved others, and yet themſelves periſhed in the waters.<note place="margin">Iſa. 10.5. ver. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Aſſyria</hi> is the rod of Gods anger, <hi>yet he means not ſo, neither doth his heart thinke ſo, but it is in his heart</hi> (to ſet up himſelf, and to that end) <hi>to de<g ref="char:EOLhyphen"/>ſtroy and cut off Nations not a few;</hi> therefore the Lord reſolves, as ſoon as ever he hath performed his whole worke upon Mount <hi>Zion,</hi> then he will burn this rod in the fire,<note place="margin">ver. 12.</note> 
+               <hi>and will puniſh the ſtout heart of the King of Aſſyria, and the glory of his high looks.</hi> It is a great honour to preach to others, to ſhew to men the way of ſalvation. It is a tranſcendent eminency, for men to be raiſed up to ſave <hi>a dying Nation, a languiſhing Kingdome.</hi> But let not that be truly ſaid of you, which was tauntingly ſpoke of Chriſt, <hi>He ſaved others, himſelf he cannot ſave.</hi> Let every ſoul take heed, as <hi>Paul,</hi> leſt when I have <hi>preached to others,</hi>
+               <note place="margin">1 Cor. 9.17.</note> 
+               <hi>I my ſelf may become a caſtaway:</hi> therefore reſt not in this, that <hi>great victories are obtained,</hi> that <hi>the ſpirits begin to be made ſubject,</hi> but that <hi>your names are written in the book of life;</hi>
+               <note place="margin">Luk. 10.20.</note> and make conſcience not only to do things that <hi>are right,</hi> but to do thoſe <hi>right things</hi> in your <hi>uprightneſſe.</hi> To which end,</p>
+            <p n="1">1. Let your hearts be <hi>spirituall,</hi> even in acts that are in them<g ref="char:EOLhyphen"/>ſelves but <hi>civil and temporall,</hi> a <hi>carnall man</hi> may perform du<g ref="char:EOLhyphen"/>ties that in themſelves for the <hi>externall act</hi> are of a <hi>spirituall nature:</hi> but then his <hi>heart,</hi> and the <hi>grounds</hi> he goes upon are <hi>carnall.</hi> when the act is <hi>ſpirituall.</hi> But approve your hearts to
+<pb n="14" facs="tcp:113372:10"/>God, not only to be ſpirituall in things ſpirituall, but to be ſpiritual<g ref="char:EOLhyphen"/>ly minded, in things that are temporall.</p>
+            <p n="2">2. Though the acts be but <hi>naturall,</hi> yet even in theſe actions alſo let your ends be <hi>ſupernaturall.</hi> Let the act be good, and the ground you go upon, and the end you aim at be good, and let the <hi>good</hi> you aim at be the <hi>highest,</hi> the moſt <hi>univerſall</hi> good, that is the rule we are bid to walke by,<note place="margin">1 Cor. 10.31.</note> 
+               <hi>Whether you cat or drinke, or whatever you do, do all to the glory of God.</hi> Approve your ſelves to that great God who ſees in ſecret: Go on, doing and ſuffering, as ſeeing him who is inviſible; knowing that in your actions to<g ref="char:EOLhyphen"/>wards men, you ſerve the Lord Chriſt: count no reward ſufficient which is below Chriſt, that he may be all and in all.</p>
+            <p n="4">4. If men may decline in many particulars from their upright<g ref="char:EOLhyphen"/>neſſe, then take heed, ſtand faſt in the faith, quit your ſelves like men, hold faſt your integrity, be faithfull to the death, let no man take away your crown from you, loſe not the things that you have wrought,<note place="margin">1 Cor. 15.58.</note> but be conſtant, immoveable, <hi>alwayes abounding in the worke of the Lord, knowing that your labour ſhall not be in vain in the Lord.</hi> No man was ever a loſer by cleaving unto God; while <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> continues in his uprightneſſe, Gods helps him wonderfully till he is made ſtrong. And thus we come to the ſecond part.</p>
+            <p>
+               <hi>When people ſeek the Lord,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>2</label> 
+               <hi>and continue to do that which is right in the eyes of the Lord, Gods uſuall way is to helpe them. Wonderfully.</hi> This is clear in the example of <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> if you conſider,
+<list>
+                  <item>1. The helpe it ſelf.</item>
+                  <item>2. The Authour of that helpe.</item>
+                  <item>3. The Extent of this helpe from God, <hi>Wonderfully helped.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1.<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ioſeph. <hi>l.</hi> 9.6.10.</note> Conſider the helpe it ſelf, <hi>he was helped:</hi> no queſtion but <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> was a Prince of great abilities, of a good diſpoſition, of an active ſpirit: he had a working head, and a dextrous hand, ſo Hiſtorians deſcribe him. There was in him a concurrence of theſe three eminent qualifications, that conduce to make governours eminently happy; the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a great <hi>Counſellour, Souldier,</hi> and in <hi>forwardneſſe in Religion ex<g ref="char:EOLhyphen"/>emplary:</hi> yet in all theſe admirable atchievements recorded of him, he was not only <hi>an agent,</hi> but <hi>recipient.</hi> The great victories
+<pb n="15" facs="tcp:113372:10"/>obteined, had not their riſe from his own abilities <hi>within,</hi> but from the helpe afforded him <hi>from above.</hi> Hence by the way is hinted this concluſion, That <hi>all created abilities which are in<g ref="char:EOLhyphen"/>herent in us, are uneffectuall without aſſiſtance.</hi> Strength with<g ref="char:EOLhyphen"/>in <hi>is nothing, can do nothing, unleſſe there be an influence of ſtrongth from without.</hi> In ſpirituals this is evident:<note place="margin">
+                  <hi>Phil. 1.13. 2 Cor 3 5.</hi> Prius eſt cogi<g ref="char:EOLhyphen"/>tare quam cre<g ref="char:EOLhyphen"/>dere, nemo credit ali<g ref="char:EOLhyphen"/>quid niſi pri<g ref="char:EOLhyphen"/>us cegitaverit eſſe credendum. Credere nila<g ref="char:EOLhyphen"/>liud eſt quam cum aſsenſione cogitare. <hi>Aug.</hi> de praedeſt. <hi>l. 1.</hi>
+               </note> God works <hi>both will and deed.</hi> We are not <hi>ſufficient of our ſelves to thinke one good thought,</hi> how much leſſe able <hi>to beleeve.</hi> It's not poſſi<g ref="char:EOLhyphen"/>ble for a poor ſoul to move towards him, till moved by him, of his own we muſt give him. And in temporals, in the managing of all affairs private or publike, it's madneſſe to rely upon <hi>an arm of fleſh,</hi> for by <hi>mans own ſtrength ſhall no man prevail.</hi> When we are left to our ſelves, <hi>the ſteps of ſtrength are ſtraitned, and our counſels caſt us down.</hi> Man is an indigent creature when he is at the beſt, and no <hi>creuted excellency</hi> can be raiſed to a con<g ref="char:EOLhyphen"/>dition of <hi>independency,</hi> ſo that helped he muſt be if he bring migh<g ref="char:EOLhyphen"/>ty things to paſle.</p>
+            <p n="2">2. Conſider the Authour, <hi>he was helyed;</hi> by whom? though this be not expreſſed in the words of the text, yet it's ſtrongly intimated here, and fully evidenced in the context, <hi>verſ.</hi> 5. God made him to proſper, and <hi>verſ.</hi> 7. God helped him againſt the <hi>Philistims,</hi> and againſt the <hi>Arabians,</hi> &amp;c. He had the helpe of men, of means, a numerous Army, expert Commanders, a con<g ref="char:EOLhyphen"/>fluence of all externall concurrence to helpe him, yet even <hi>theſe,</hi> from <hi>the bounty of God affording,</hi> and all theſe inſufficient to make him ſtrong without Gods <hi>helpe aſſisting.</hi> No helpe, no aſſi<g ref="char:EOLhyphen"/>ſtance effectuall without divine concurrence. The worſt of Princes have been forced to confeſſe it, if the Lord <hi>do not helpe,</hi>
+               <note place="margin">2 King 6.27.</note> 
+               <hi>whence ſhall I helpe thee,</hi> ſaid that King of <hi>Iſrael</hi> to the woman that had boyled her own ſon for food in the famine of <hi>Samaria.</hi> The Saints triumph in this acknowledgement,<note place="margin">Pſal. 124.8.</note> 
+               <hi>our helpe ſtand<g ref="char:EOLhyphen"/>eth in the Name of the Lord that made Heaven and earth.</hi> They diſdeigned humane conſidences;<note place="margin">Hoſ. 14 3.</note> 
+               <hi>Aſhur ſhall not ſave us, nor will we ride any more upon horſes.</hi> In vain is ſalva<g ref="char:EOLhyphen"/>tion hoped for from the hils, or from the multitude of mount<g ref="char:EOLhyphen"/>ains, ſurely in the <hi>Lord our God is the ſalvation of his people.</hi> They keep their eye on God when they <hi>are in trouble,</hi> enduring becauſe they <hi>ſee him that is inviſible.</hi> My eyes are ever towards
+<pb n="16" facs="tcp:113372:11"/>the Lord, for he hath plucked my feet out of the net, and there<g ref="char:EOLhyphen"/>fore aſcribe their redemptions to him, <hi>when out of trouble.</hi>
+            </p>
+            <p n="3">3.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Conſider the Extent of this helpe: <hi>helped marvellouſly till he was made ſtrong.</hi> The word ſignifies, God <hi>wrought won<g ref="char:EOLhyphen"/>ders</hi> to helpe him. His way towards him was not uſuall. But God with an high hand and ſtretched out arm wrought mar<g ref="char:EOLhyphen"/>vellouſly for <hi>
+                  <g ref="char:V">Ʋ</g>zziah.</hi> If you enquire what wonders were thoſe, conſider,</p>
+            <p n="1">1. When he was young, and tender, and weak, was it not a wonder, out of all that <hi>weakneſſe to be made ſtrong;</hi> and that after the ſlaughter of ſo many Princes, the Lord ſhould reſerve <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> to ſet him upon the throne of his father <hi>David?</hi>
+            </p>
+            <p n="2">2. When the people were in a great heat and height, and their hand had been very heavy upon the royall family, did not God helpe wonderfully to quench all thoſe ſtorms, and to eſtabliſh the Kingdom is his hands?</p>
+            <p n="3">3. Was it not the mighty worke of God, not only to over<g ref="char:EOLhyphen"/>power the hearts of the people at home, that they had an <hi>heart to ſubmit,</hi>
+               <note place="margin">ver. 7. ver. 8.</note> when <hi>power was in their hands to reſiſt,</hi> but alſo that God ſhould ſubdue all his enemies abroad? The <hi>Philiſtims,</hi> the <hi>Ara<g ref="char:EOLhyphen"/>bians,</hi> and the <hi>Ammonites gave gifts to <g ref="char:V">Ʋ</g>zziah.</hi>
+            </p>
+            <p n="4">4. Conſider the great honour God put upon him, that he <hi>was loved of his friends, feared</hi> by his <hi>enemies, honoured</hi> by the <hi>neu<g ref="char:EOLhyphen"/>ters,</hi> and his <hi>name spread far abroad to the entring in of Egypt,</hi> verſ. 8.</p>
+            <p n="5">5. God gave him a wiſe heart, to improve all thoſe opportu<g ref="char:EOLhyphen"/>nities that were put into his hands. He fortified himſelf <hi>exceed<g ref="char:EOLhyphen"/>ingly:</hi> His victories far greater then any of the Kings of <hi>Iudals</hi> that lived before him from the time of <hi>David:</hi> His magnificent works equall (if not ſuperiour) to any, from the dayes of <hi>Sol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mon:</hi> He <hi>built towers in Ieruſalem at the Corner-gate, and at the Valley-gate,</hi>
+               <note place="margin">ver. 9.</note> 
+               <hi>and at the turning of the wall.</hi> Beſides all this, he had the <hi>art to uſe,</hi> as well as the <hi>happineſſe to procure,</hi> in the grounds convenient for husbandry, he had plough-men: He had <hi>vine-dreſſers in the Mountains, in Carmel and in the Low-Countries,</hi> and in the plains he had cattel, and in other waſte places, taken from the <hi>Arabians</hi> and <hi>Ammenites,</hi> in their ſelect places fit for paſture: There <hi>he digged wells for water,</hi> and built
+<pb n="17" facs="tcp:113372:11"/>towers to defend his ſervants in the deſert, and to command thoſe water courſes, that none without his conſent might make uſe of that dry land, whereby he got into his own hand the ſole command of the waters, and of the countrey.</p>
+            <p n="6">6. For Martiall exploits he was helped wonderfully to grow very famous. You may read of a vuſt Army. 1. Raiſed by him, to the number of <hi>three hundred thouſand, ſeven thouſand and five hundred fighting men.</hi> 2. This Army well diſciplined, and train<g ref="char:EOLhyphen"/>ed under the command of mighty men of valour.<note place="margin">ver. 15.</note> There were to order this great Army, to the number of two thouſand and ſix hundred Officers, <hi>ver.</hi> 12.3. This Army maintained and provi<g ref="char:EOLhyphen"/>ded for, for he prepared for them thorowout all the hoſt, ſwords, and ſpears, and helmets, and beſides, many rare inventions; for he made in <hi>Ieruſalem engins invented by cunning men</hi> to be <hi>on the Towers and on the Bulwarks, to ſhoot arrows and great ſtones withall,</hi> ſo that his name ſpread far abroad; thus when he ſought the Lord he was no loſer by it, he ſought not in vain, for God <hi>helped him wonderfully till he was made ſtrong.</hi> God hath not ſaid to any perſon or Nation, that they ſhall ſeek his face in vain; God will not deſert till he be deſerted.<note place="margin">2 Chron. 15.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> You may read the ſame in the example of <hi>Aſa,</hi> of <hi>Jehu,</hi> and of many others, which makes the truth evident, that whiles a people ſeek the Lord, the Lords uſuall way is (rather then they ſhall periſh) to worke wonders, <hi>&amp;c.</hi>
+            </p>
+            <p n="1">1. God helps wonderfully them that ſeek him, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> to magnifie <hi>his bounty,</hi> or that he may diſcover to the ſons of men, his own <hi>ſo<g ref="char:EOLhyphen"/>vereignty,</hi> that thoſe that will not <hi>ſee his hand</hi> in the <hi>works of creation,</hi> may <hi>feel his power</hi> in the <hi>acts of his providence.</hi> When God appears in his beauty to infatuate the counſels, wither the plots, confound the policies, and to blaſt all the choiceſt deſignes, and deepeſt contrivances of the ableſt of men, when they thinke to carry all the world before them, then God ariſeth, and in one moment <hi>undeeth</hi> all that which they have <hi>been doing</hi> and contri<g ref="char:EOLhyphen"/>ving for many years and ages. Thus is the world forced to con<g ref="char:EOLhyphen"/>feſſe (what it is deſirons to deny) that there is a God; 1. diſcern<g ref="char:EOLhyphen"/>ing,<note place="margin">Prov. 11.4. Prov. 24.12. Pſal. 58.11. Iſ 1.3 5.3.</note> 2. conſidering, and 3. judging in the earth. Then ſhall the <hi>eyes of the blinde be opened,</hi> and the ears of the deaf be unſtopped.</p>
+            <p n="2">2. Thoſe that ſeek to the Lord, God will helpe, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> that he may
+<pb n="18" facs="tcp:113372:12"/>vindicate the <hi>truth</hi> and <hi>honour</hi> of his <hi>despiſed ordinances.</hi> A carnall heart ſnuffs at Gods ſervice,<note place="margin">Mat. 1.17. Mal. 3.14.</note> ſayes, <hi>its in vain to ſerve the Lord, and to Walke mournfully before the Lord of hoſts.</hi> But while the world is ſcoffing, the Saints are mourning, and its a ſword in their bones; to have their adverſaries reproach them, ſay<g ref="char:EOLhyphen"/>ing, <hi>Where is your God?</hi>
+               <note place="margin">Pſal. 42.10.</note> what is become of your prayers? of <hi>your Ieſus?</hi> But when the Lord <hi>looks down from the height of his ſanctuary, to hear the groans of the priſoner, to looſe thoſe that are appointed unto death.</hi>
+               <note place="margin">Pſal. 101.17, 19.</note> 
+               <hi>When he regards the prayer of the de<g ref="char:EOLhyphen"/>ſtitute, and despiſes not their ſupplication;</hi> then ſhall the world finde thoſe contemned and ſcorned prayers of the Saints, to be as <hi>arrows ſharpe in the hearts of the Lords enemies,</hi>
+               <note place="margin">Pſal 45.5.</note> and that all the wit of man cannot <hi>prevail over</hi> a people that weep and make ſupplication,<note place="margin">Hoſ. 12.4.</note> and <hi>prevail with God.</hi>
+            </p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> God helps wonderfully, to encourage poor ſinners to come to him as their greateſt ſtrength. <hi>O thou that heareſt prayers, unto thee ſhall all fleſh come,</hi>
+               <note place="margin">Pſal. 65.2.</note> Though they be but fleſh and not ſpirit, yet they wait upon him in their deepeſt difficulties, and God works wonderfully,<note place="margin">Heb. 11.34.</note> out of <hi>weakneſſe to make them ſtrong.</hi>
+            </p>
+            <p n="4">4. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> That they who will not ſeek to the Lord may be left with<g ref="char:EOLhyphen"/>out excuſe, when God kindles <hi>a burning under all their glory,</hi> and ſprinkles <hi>brimstone upon their habitations,</hi> when his judge<g ref="char:EOLhyphen"/>ments meet them in their way, and ſtare them in the very faces, yet God works wonderfully to croſſe the deſignes, to ſtain <hi>the pride of their glory,</hi> to reſcue his ſervants out of their hands, as <hi>fire-brands taken out of the common burning.</hi> When the Lord of hoſts, who is the redeemer of his people, appears to be ſtrong, and thorowly to plead the cauſe of his people, to give them reſt, <hi>and to diſquiet the Inhabitants of Babylon,</hi> to deliver the righ<g ref="char:EOLhyphen"/>teous out of trouble,<note place="margin">Jer 50.34.</note> and to bring the wicked into trouble in their ſtead. If under all this their uncircumciſed hearts be not hum<g ref="char:EOLhyphen"/>bled, and they will not give glory to God in beleeving, they ſhall be <hi>broken as a tree,</hi> and the horn of his people ſhall be exalted, and the wicked ſhall ſee and be grieved, he ſhall gnaſh with his teeth, and melt away, <hi>the deſires of the wicked ſhall periſh,</hi> and in<g ref="char:EOLhyphen"/>iquity ſhall ſtop her mouth for ever.</p>
+            <p n="1">1. <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Beleeve this great truth, that the proſperity of perſons, fa<g ref="char:EOLhyphen"/>milies and Kingdoms are in the hands of God, that <hi>promotion
+<pb n="19" facs="tcp:113372:12"/>comes neither from the eaſt nor from the west,</hi> but that it is God that ſets up one, and pulls down another. The books of the <hi>Kings</hi> and <hi>Chronicles</hi> are <hi>recorded,</hi> that God himſelf hath left for <hi>States-men</hi> in eſpeciall manner to peruſe and ponder, the many and mighty changes in the ſtate and polity of <hi>Iſrael</hi> and <hi>Iudah,</hi> came from an higher hand then the deſignes of men: In the whole ſtory you ſhall finde all experience cleering this, that their whole ſtate varied in its <hi>riſe</hi> and <hi>fall, beauty</hi> and <hi>deformity,</hi> ac<g ref="char:EOLhyphen"/>cordingly as they <hi>came up,</hi> or <hi>fell off from the Lord.</hi> When they ſought the Lord, God <hi>helped them Wonderfully,</hi> but when they deſerted God, and reſolved to carry all before them, by power and policy, they were ſoon <hi>brought low for their inquity.</hi>
+               <note place="margin">Pſal. 106.43.</note>
+            </p>
+            <p n="2">2. <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> If others beleeve not this, do <hi>you acknowledge it:</hi> this day, (Right Honourable, and the heads of our Tribes) is this Scripture fulfilled in your eyes, you may ſee it, and cry out in admiration, ſurely God hath helped us Wonderfully, God hath rained down miracles of ſalvations, he hath wrought wonders for you.</p>
+            <p n="1">1. In calling you together in the daies of our fears. Call but to minde the <hi>Wormwood and the gall,</hi> and let your ſoul <hi>ſtill have them in remembrance.</hi> When the enemy was ſo high that they were above fear, and the people of the Lord ſo low that they were below hope, then you could not but ſay, this text is verified on you as truly as on <hi>
+                  <g ref="char:V">Ʋ</g>zziah, God hath helped wonderfully.</hi>
+            </p>
+            <p n="2">2. God hath wrought wonders in keeping you together all this troubleſome time, when there hath been a great diſperſing and forſaking in the midſt of the Land.</p>
+            <p n="3">3. God hath kept you when others fell off from you.</p>
+            <p n="4">4. God hath kept you together, when our ſins (not to ſay, yours) have provoked the Lord every day to make you fall a<g ref="char:EOLhyphen"/>ſunder, and when in ſome particulars, according to different light, your ſelves have been divided; yet for the main, God hath kept you together by a wonder of goodneſſe, that ſo <hi>your diviſion</hi> might not prove <hi>our confuſion.</hi> God hath alſo kept you, and the Nation in you alive, our lives and ſafeties, and the life of our Na<g ref="char:EOLhyphen"/>tion have been bound up in yours. God hath wrought alſo won<g ref="char:EOLhyphen"/>ders every where for you, he hath helped you wonderfully in the North and in the Weſt: He hath ſaid to the North, Give up, and to the Weſt, Keep not back. His deliverances have been clear vi<g ref="char:EOLhyphen"/>ctories,
+<pb n="20" facs="tcp:113372:13"/>no longer diſputable, but undoubted. Your friends <hi>cannot but admire,</hi> your enemies cannot but <hi>acknowledge,</hi> therefore 'tis your duty to beleeve it with the heart, and confeſſe it with the tongue, <hi>that the Lord hath helped wonderfully.</hi>
+            </p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> Be not you then weary <hi>in ſeeking God.</hi> You have not fought in vain, God hath not been <hi>to you a Wilderneſſe or a land of darkneſſe:</hi> had God ſet us to pull at a rock, that we ſhould all our life long have been <hi>praying, crying, mourning,</hi> and we had never ſeen any return of our prayers, it had been our duty to have perſevered ſeeking to our dying day; but when God hath ſo <hi>vi<g ref="char:EOLhyphen"/>ſibly,</hi> and ſo <hi>wonderfully</hi> riſen up, upon the ſupplication of his ſer<g ref="char:EOLhyphen"/>vants, follow God with entreaties. When God intends to worke great redemptions, and to bring deliverances to perfection, then he hath ſaid,<note place="margin">Ier. 31.9.</note> his people ſhall come <hi>with weeping, and with ſupplica<g ref="char:EOLhyphen"/>tion will I lead them.</hi>
+            </p>
+            <p>If God hath helped you wonderfully, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> be you forward to <hi>helpe the Lord,</hi> even <hi>the Lord againſt the mighty.</hi> God hath begun firſt to afford his helpe to you, be you ready to draw out all your ſtrength <hi>to helpe him:</hi> God <hi>commands it,</hi> and in all equity he may <hi>expect it.</hi> All parts of the Kingdom cry for your helpe, and the Church as a woman in travell cries out for your aſſiſtance. Look back and conſider what great things God hath done, and aske your own hearts, what you have hitherto done for the name of your God, or what ſhall we render to the Lord for his great goodneſſe? Lay out your ſelves for him, who hath ſpread out his great power for you, and be willing to decreaſe, that he may in<g ref="char:EOLhyphen"/>creaſe; let God be your ſtrength, and your ſtrong tower; ho<g ref="char:EOLhyphen"/>nour God with your ſtrength, this will be a ſtrong preſervative againſt the venomous infection which ſurpriſed <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> who when he was made ſtrong, doted upon his highneſſe, and <hi>his heart was lifted up to his own deſtruction.</hi>
+            </p>
+            <p>Thus far you have ſeen this great Prince in his aſcenſion,<note place="margin">Third part.</note> and in him a parallel of ſuperlative goodneſſe to wards you. The re<g ref="char:EOLhyphen"/>mainder is very ſad, his ſin and miſery. <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> being made ſtrong, his heart was lifted up, not in the wayes of the Lord, as it was ſaid of good <hi>Icheſhapha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+               <note place="margin">2 Chro. 17.5.</note> for that is ever needfull to be lifted up in the Lord againſt all diſcouragements, but his heart was lift<g ref="char:EOLhyphen"/>ed up, ſwelled, grown great in the thoughts of his own worth.
+<pb n="21" facs="tcp:113372:13"/>Oh <hi>tell is not in Gath, publiſh it not in the gates of Askelon.</hi> Yet his fall is recorded for our warning,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> upon whom the ends of the world are come.</p>
+            <p>
+               <hi>When good men are made strong,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> 
+               <hi>then are they in moſt danger vainly in themſelves to be lifted up.</hi> Look over all former par<g ref="char:EOLhyphen"/>ticulars. 1. Of Perſons that have been greateſt. <hi>Rehaba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> when he was eſtabliſh'd in the Kingdom, had ſtrengthened him<g ref="char:EOLhyphen"/>ſelf to <hi>forſake the Lord, and all Iſrael with him.</hi>
+               <note place="margin">2 Chron. 2.12, 21. 2 Chron. 2.25, 19.</note> 
+               <hi>Amaziah</hi> when he had <hi>ſmisten the Ammonites, his heart was lifted up to boaſt. Nebuchadnezzar</hi> when God had uſed him as a great inſtru<g ref="char:EOLhyphen"/>ment, <hi>his heart was lifted up, and hardned through pride.</hi> 2.<note place="margin">Dan. 5.20.</note> As in Perſons, ſo alſo in States and Nations. <hi>Aſſyria,</hi> Iſa. 10.13. <hi>Tyre,</hi> Ezek. 28.2, 5, 17. thy heart was lifted up becauſe of thy riches; and <hi>verſ.</hi> 17. becauſe of thy beauty: and in <hi>Egypt.</hi> 31 5, and 10.3. See this in the beſt of Saints in the dayes of their fleſh: <hi>Hezekiah</hi> breaths after God in the time of his <hi>ſtreits,</hi> and re<g ref="char:EOLhyphen"/>lapſes from him in the time of his <hi>recovery.</hi> See what a difference in <hi>David,</hi> when in the cave in the wilderneſſe of <hi>Iudah,</hi> and when God had given him reſt round about: he that enjoyed God ſo wonderfully at <hi>Gath,</hi> at <hi>Engedi,</hi> loſt for a time that ſweet com<g ref="char:EOLhyphen"/>munion with God at <hi>Hebron,</hi> and in <hi>Jeruſalem.</hi> S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> when raviſhed into Paradiſe, and faw that which no tongue can utter, yet prone to be lifted up <hi>with abundance of revelations,</hi> and therefore the admonitions of God are very frequent, <hi>Deut.</hi> 8.10, 12. <hi>Take beed when thou art full, leſt thou forget the Lord;</hi> &amp;c, and the ſupplications of Gods ſervants have been very ſervent to prevent <hi>that evil; Agur</hi> ſees how much ado he hath to ſupport his own diſability, when he beggs,<note place="margin">Pro. 30.7, 8, 9.</note> 
+               <hi>Lord, give me neither rich<g ref="char:EOLhyphen"/>es nor poverty, lest I be full and deny thee, and ſay, Who is the Lord?</hi> Few men have lived, that have been able <hi>to maſter their comforts,</hi> but a worm hath bred in their Manna. If you aske the reaſon why theſe men who have not ſunke under ſorrows ſhould miſcarry under comforts.</p>
+            <p n="1">1. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> From <hi>Satun:</hi> Shall I impute it to the tempter, who is very active at all times, <hi>he never ſtumbers nor ſleeps,</hi> he ſets on Chriſt in the wilderneſſe, <hi>no condition is exempted from his temptations.</hi> Afflictions are called temptations, ſo they are <hi>in themſelves, and to the ſenſe:</hi> but conſolations alſo are temptations, and theſe
+<pb n="22" facs="tcp:113372:14"/>though <hi>not ſo ſenſible,</hi> yet often <hi>prove more dangerous and fa<g ref="char:EOLhyphen"/>tall:</hi> Theſe are the <hi>stronger,</hi> becauſe more <hi>ſistable</hi> and <hi>connaturall</hi> to our depraved diſpoſition. When Satan tempts to <hi>deſpair,</hi> there is nothing to be ſeen but <hi>clouds and darkneſſe, fears, and streits, and a ſnare,</hi> and though all theſe ſet on you with greateſt vi<g ref="char:EOLhyphen"/>olence, yet <hi>nature</hi> it ſelf <hi>abhorrs, reſiſts;</hi> the end propounded is not <hi>deſireable,</hi> therefore theſe temptatios are <hi>leſſe taking,</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>leſſe pleaſing:</hi> but when the tempter mingles himſelf with <hi>our comforts,</hi> ſits with us <hi>at our tables,</hi> inſenſibly alluring us to <hi>ſelf-pleaſing</hi> and <hi>ſelf-admiring,</hi> this is a cup of <hi>ſweet poiſon,</hi> ſo much the more <hi>deadly,</hi> becauſe <hi>delightfull.</hi> 'Tis <hi>Angustin</hi> in his obſervation upon his preface to the 51. <hi>Pſalm</hi>
+               <note n="*" place="margin">Multi res ad<g ref="char:EOLhyphen"/>verſas timent, resproſper as non tment. Pericu<g ref="char:EOLhyphen"/>l, for eſt res proſpera animo quam adverſa corpori. Prius corrumpit res prospera, ut inveniat quod frangat res ad<g ref="char:EOLhyphen"/>verſa</note> And<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Sicut Pyratae qui mare na<g ref="char:EOLhyphen"/>vigijs infeſta<g ref="char:cmbAbbrStroke">̄</g>t, non tan ubi na ves eportu ex<g ref="char:EOLhyphen"/>euntes conspex<g ref="char:EOLhyphen"/>erint invadunt. Quid enim his fructus, ſi j chapham in<g ref="char:EOLhyphen"/>anem demer<g ref="char:EOLhyphen"/>gerent? ſed ubi redierit onuſi a ſarcinis, tum demum omnem expediunt ar<g ref="char:EOLhyphen"/>tem. <hi>Chriſoſt.</hi> de veibo <hi>Iſayae</hi> vidt, 'Dom, Hom 2.</note> 
+               <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom</hi> gives this reaſon: Pyrates that rob by the ſea, ſeldom ſet up<g ref="char:EOLhyphen"/>on ſhips that go out empty, but when then they have been abroad and return richly laden, then they uſe all art, and exerciſe all vi<g ref="char:EOLhyphen"/>olence to maſter both the veſſel and the prize; ſo Satan inſinuats himſelf into all our comforts, nay our graces, nay our duties, that when we thinke we are in the Haven, and the danger over, the danger then is greateſt. How ſtrongly doth he labour, how fre<g ref="char:EOLhyphen"/>quently doth he prevail, to make us forget humility becauſe we have been humble.</p>
+            <p n="2">2. Shall I ſay it is from the <hi>World</hi> that is <hi>deceitfull;</hi> If the world deceive ſo many when it is bitter, whom will it not delude if it were ſweet?</p>
+            <p n="1">1. The very change of conditions when it is <hi>ſudden</hi> and <hi>great,</hi> cannot be without danger. Phyſicians obſerve in craſie bodies, that a ſudden <hi>eucraſie</hi> is the foretunner of ſome <hi>diſcraſie,</hi> and they that write Politicks, obſerve, exceſſe of power is a great triall of mens abilities. And all the ſons of men muſt confeſſe it a dif<g ref="char:EOLhyphen"/>ficulty for an unſteady paralyticall hand, to carry a full cup with evenneſſe; for thoſe that have been full of fears, ſtraits, to be ex<g ref="char:EOLhyphen"/>alted, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> to have a number of ſupplicants and ſuitours waiting on them,<note place="margin">Magiſtratus oſtendit virum</note> the change is ſo great, that the hand had need be very ſteady that carries this full cup without ſpilling.</p>
+            <p n="2">2. From the multitude of ſuitours or of flatterers: it is the un<g ref="char:EOLhyphen"/>happineſſe of great men,<note place="margin">I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lc v. 16.</note> that <hi>others have them in admiration be<g ref="char:EOLhyphen"/>cauſe of advantage.</hi>
+            </p>
+            <p n="3">3. From the fewneſſe of thoſe that have <hi>acceſſe</hi> or <hi>courage</hi> to
+<pb n="23" facs="tcp:113372:14"/>deal plainly; 'tis difficult for poor Miniſters how to carry them<g ref="char:EOLhyphen"/>ſelves, to obſerve duely that <hi>distance</hi> God <hi>hath made,</hi> and not <hi>neg<g ref="char:EOLhyphen"/>lect that duty</hi> God <hi>requires.</hi>
+            </p>
+            <p>It is obſerved by ſome of the Learned, that <hi>Solomon</hi> repent<g ref="char:EOLhyphen"/>ing, wonders how he fell ſo wonderfully; and that none of the Miniſters about him would deal faithfully, to ſhow him his dan<g ref="char:EOLhyphen"/>ger, and to recover him from that apoſtaſie; in anſwer unto which he brings in the Wiſe man, excuſing themſelves for this neglect, that they looked upon <hi>Solomon,</hi> as one eminent tranſcend<g ref="char:EOLhyphen"/>ently in wiſedom, and therefore might have a further reach then they apprehended, and one that did not ſtand in need of their ad<g ref="char:EOLhyphen"/>vice or counſell: Who, ſay they, <hi>is as the Wiſe men,</hi> and who <hi>knows the interpretation of a thing?</hi>
+               <note place="margin">Mr <hi>I.C.</hi> on Eccleſ. 8.1 4.</note> or if they thought it not <hi>unneedfull,</hi> yet they apprehended it <hi>unſafe;</hi> for where the word of the King is, there is power; however, they conceived it their duty not to intermeddle, for who may ſay unto him, what doſt thou?</p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Or is it from the juſt hand of the Lord, that he may either try the graces of his Saints, or diſcover their weakneſſe, or teach them to underſtand wherein their great ſtrength lies; thus God left <hi>Hezekiah, that he might know all that was in his own heart:</hi>
+               <note place="margin">2 Chro. 32.31.</note> and in Gods enemies it is from his juſt deſerting of them, who have deſerted the Lord, and have caſt off the fear of the Almigh<g ref="char:EOLhyphen"/>ty, that their rottenneſſe <hi>may be diſcovered,</hi> the meaſure of their ſins filled up, and their ruin haſtened: that even in themſelves, and in the ſight of this world they may receive <hi>ſuch recompence of their former errour as is meet,</hi> that others may learn and fear,<note place="margin">Rom. 1.27.</note> and ſee by experience, that he which is lifted up,<note place="margin">Hab. 2.4.</note> 
+               <hi>his ſoul is not upright in him.</hi>
+            </p>
+            <p n="4">4. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> But the main ground of all is from the vanity of our own ſpirits, the vermine that doth all this miſchief lyes in our own boſom, conceal'd from our own eyes, as weeds lye hid in winter, till the warmth of the ſpring diſcovers them, as a ſnake half fro<g ref="char:EOLhyphen"/>zen to death, lay it between thy breſts, now it begins to warm, and no ſooner receives renewed life and ſtrength, but it ſpits poi<g ref="char:EOLhyphen"/>ſon. The viper that was in the bundle of ſticks that <hi>Paul</hi> ga<g ref="char:EOLhyphen"/>thered, whilſt they are cold lyes undiſcerned, but when they are laid on the fire,<note place="margin">Act: 28.3.</note> the viper comes out of the heat <hi>and faſtens on
+<pb n="24" facs="tcp:113372:15"/>Pauls hand,</hi> and he that had newly eſeaped being drowned at ſea, is now ready to be poiſoned to death at land; What a biſn<g ref="char:EOLhyphen"/>neſſe of ſpirit is in the ſons of men, that know not how to <hi>endure evil,</hi> or to <hi>enjoy good?</hi> Have you not known ſome in a low con<g ref="char:EOLhyphen"/>dition, to how and ſcrape, lick the ſpirtle on the ground, crowck and bow, humble and debaſe themſelves, hummour, honour, admite, adore them that have had power in their hands, that by ſeeming humility they might inſinuate themſelves into the favour of great ones, willing to be low in appearance, that they might riſe; and no ſooner have theſe men got up, but they have diſcoverened un<g ref="char:EOLhyphen"/>imagined inſolency, like mad men got up to the top of a Tower with baggs full of ſtones, throw (without fear or wit) at every paſſenger; like the man poſſeſſed in th Goſpel, who was ſo fierce that <hi>no man could binde him;</hi>
+               <note place="margin">Mark. 5.3.</note> or like him of whom <hi>Job</hi> ſpeaks, <hi>he riſeth up,</hi> and when he is got on high, he <hi>draws the mighty with his power,</hi>
+               <note place="margin">Iob. 24.22.</note> and his violence grows ſo boundleſſe, that <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man is ſure of his life;</hi> And the Lord tells us, though <hi>it be given to him to be in ſafety,</hi>
+               <note place="margin">ver. 23.</note> 
+               <hi>Whereen be reſteth,</hi> yet Gods eyes are upon the waies of ſuch men, they are <hi>exalied for a little while, but preſently they are gone and brought low, they are taken out of the way</hi> as all other oppreſſours before them, and <hi>they are cut off as the topps of the ears of corn;</hi> thus <hi>their glory is ſwift as waters,</hi> and their <hi>portion is curſed in the earth,</hi>
+               <note place="margin">ver. 8. ver. 20.</note> and wickedneſſe ſhall be broken as a tree.</p>
+            <p n="1">1. This may inform us, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> that God looks not only at theactions of men, but at their diſpoſitions; His eye is not only upon <hi>the hand,</hi> but upon <hi>the hearts of the ſons of men;</hi> he looks not only upon the externall act, but upon the frame of the Spirit, and can declare to <hi>every man what is his thought. <g ref="char:V">Ʋ</g>zziah</hi> mindes nor, regards not his own heart, but the Lord obſerves and takes no<g ref="char:EOLhyphen"/>tice, and tells us, <hi>that <g ref="char:V">Ʋ</g>zziah his beart was lifted up.</hi> We have need then to ſtudy our own ſpirit, and <hi>commune with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur own hearts,</hi> ſearch, and try, and judge our ſelves, and intreat the Lord, who is the great ſearcher of hearts, that he would ſearch us <hi>and try us, and if there be any way of wickedneſſe in us,</hi> that he would diſcover it to us, and lead us in the way everlaſting.</p>
+            <p n="2">2. <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> This alſo may be for our humdiation, that we ſhould be ſo prone to turn the goodneſſe of God into wantonneſſe, that we
+<pb n="25" facs="tcp:113372:15"/>ſhould be worſt to God when God is beſt to us, that we know not, naturally, either how <hi>to be full or to be empty? what unknown abominations lye in our hearts undiſcerned?</hi> a man cannot ima<g ref="char:EOLhyphen"/>gin or will beleeve that ſuch a world of pride lies in his ſpirit, till the time of temptation draw it out. <hi>Eliſha</hi> weeps over <hi>Hazael,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng. 8.12.</note> 
+               <hi>Hazael</hi> wonders that the man of God ſhould weep, <hi>Why weeps my Lord? Eliſha</hi> anſwers, <hi>Becauſe I know the evil that thou wilt do to the children of Iſrael; their ſtrong holds wilt thou ſet on fire, and their young men wilt thou ſlay with the ſword, and wilt daſh their children, and rip up their Women with childe: Hazael</hi> wonders at this Prophecie, cries out in deteſtation, <hi>But what is thy ſervant a dog, that he ſhould do this great thing?</hi>
+               <note place="margin">ver. 13.</note> but theſe unhumane butcheries which would not enter into <hi>his head</hi> when he was low, yet both entred into <hi>his huart,</hi> and were ex<g ref="char:EOLhyphen"/>ecuted <hi>by his hand</hi> when God had made him ſtrong, and had lift<g ref="char:EOLhyphen"/>ed him up.</p>
+            <p>This may be for exhortation, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> both</p>
+            <p n="1">1. To long for that condition in Heaven, wherein we ſhall be lift up without pride, wherein we ſhall be <hi>most high</hi> and <hi>most humble,</hi> far above all corruptions and all temptations. The Angels that are on high,<note place="margin">Heb. 1.14.</note> are willing to be <hi>miniſtring ſpirits for the good of the Saints that are below;</hi> and the Saints that are now perfect in Heaven, high, and lifted up, throw themſelves and <hi>their crowns down at the foot of the Lambe.</hi>
+               <note place="margin">Rev. 4.10.</note>
+            </p>
+            <p n="2">2. In the mean time <hi>till we enter into this reſt,</hi> let every one de<g ref="char:EOLhyphen"/>ſire to ſee the <hi>plague of his own heart,</hi>
+               <note place="margin">1 King. 8 38. 2 Cor. 11.3. 1 Cor. 7.29.</note> and be <hi>jealous over himſelf with a godly jealouſie, lest us Satan beguiled Eve through his ſubtilty, ſhould alſo corrupt any of your mindes: The time is ſhort, and therefore they that rejoyce, are to be as though they re<g ref="char:EOLhyphen"/>joyced not, and they that uſe this world as not abuſing it; for the faſhion of this world paſſeth away.</hi> The Pſalmiſt obſerves,<note place="margin">Pſal. 49.20.</note> 
+               <hi>that man being in honour continues not.</hi> Let no man preſume on his own ſtrength, and let not <hi>him that girds on his armour, be as he that puts it off.</hi> The conflict without is very great, but the ſharp<g ref="char:EOLhyphen"/>eſt combate is with the pride of our own hearts within; if we conquer this enemy, Satan and all our actverſaries can never con<g ref="char:EOLhyphen"/>quer us: if this prevail and enter in,<note place="margin">Prov. 25.28.</note> we ſhall be <hi>as a City with<g ref="char:EOLhyphen"/>out barrs and without gates.</hi>
+            </p>
+            <pb n="26" facs="tcp:113372:16"/>
+            <p> Now we come to the miſery of this abuſe,<note place="margin">Fourth part.</note> 
+               <hi>his heart was lifted up:</hi> to what end or advantage alas? that ſwelling proved fatall, and the iſſue dreadfull, lifted up to his own deſtruction: The word is,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> lifted up <hi>to corrupt or destroy:</hi> To deſtroy or corrupt, <hi>whom?</hi>
+               <note place="margin">Ad corrum<g ref="char:EOLhyphen"/>peadum.</note> To <hi>corrupt himſelf,</hi> to <hi>deſtroy others,</hi> to hazard the <hi>ruin of the ſtate:</hi> yet this ſin of his was <hi>perſonall,</hi> and perſonall there<g ref="char:EOLhyphen"/>fore was the ruin, God ſpared the people, and ſuffers him to fall in his own tranſgreſſion, his heart was lifted up <hi>to his own deſtru<g ref="char:EOLhyphen"/>ction.</hi> Hence obſerve.</p>
+            <p>
+               <hi>When that ſtrength is abuſed to pride,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>4</label> 
+               <hi>which God affordeth to his ſervice, that ſtrength proveth to be the door of weakneſſe, that lifting up and ſudden riſe, is but the forerunner of greater ruin.</hi>
+               <note place="margin">Prov. 16.18. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Pride goeth before deſtruction, and a haughty minds before a fall;</hi> Such a <hi>confraction</hi> follows a heart thus lifted up, as ſhivers it all in pieces, and makes it to be <hi>a despiſed broken veſſel.</hi> That pride will have a fall, is from common experience grown prover<g ref="char:EOLhyphen"/>biall. Thoſe that are of the higheſt ſtature, and climb the high<g ref="char:EOLhyphen"/>eſt, their fall, their downfall is the greateſt.<note n="*" place="margin">Ecquit latre<g ref="char:EOLhyphen"/>ni ſcalant aſ<g ref="char:EOLhyphen"/>cendent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> invi<g ref="char:EOLhyphen"/>det, unde poſt decrſum eſt praecipitandus? <hi>T. Cartw. in Prov. 16.18.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> No man envies a ma<g ref="char:EOLhyphen"/>lefactour going up the ladder, though exalted above all the ſtand<g ref="char:EOLhyphen"/>ers by, becauſe his climbing up is to be <hi>cut off in a moment:</hi> See this in <hi>Haman, Nebuchadnezzar, Belſhazzar,</hi> weighed in the balance and found <hi>too light, Herod</hi> adored <hi>as a god,</hi> imme<g ref="char:EOLhyphen"/>diatly <hi>eaten up of worms.</hi> Nay, the Saints <hi>brought low</hi> when thus <hi>lifted up, David</hi> when his <hi>mountain ſeems to ſtand strong, then God hides his face and he is troubled: A mans pride will ſurely bring him low,</hi> though he have many friends and great ſup<g ref="char:EOLhyphen"/>ports to hold him up.<note place="margin">Chryſoſt. in Iſatain.</note> 
+               <hi>Chryſoſtom</hi> obſerves, that the heart of pride is never content to ſtay below at the bottom, but is ever <hi>clymbing up,</hi> and pride it ſelf ſtands at the top of the ladder, with a mallet in his hand ready to ſtrike the ſinner down. And this is not only obſervable in <hi>perſons,</hi> but in <hi>ſtates</hi> and <hi>Kingdoms;</hi> of <hi>E<g ref="char:EOLhyphen"/>dom</hi> it is recorded,<note place="margin">Obad. v 3.</note> 
+               <hi>the pride of thy heart hath deceived thee, thou that dwelleſt in the clifts of the rocks, whoſe habitation is on high: Though thou exalt thy ſelf at the Eagle, and though thou ſatteſt thy neſt among the ſtarres, thence will I bring thee down, ſaith the Lord.</hi> And the like is recorded of <hi>Caldaa, Egypt, Sodom</hi> and <hi>Gomorrah.</hi> Nay not only in <hi>perſons</hi> and <hi>Nations,</hi> but if you aſcend higher and enquire, what brought the Angels ſo low, that
+<pb n="27" facs="tcp:113372:16"/>
+               <hi>wherever they go they carry their hell with them.</hi> Their ſin,<note place="margin">Quocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dae<g ref="char:EOLhyphen"/>mores volitant gebennau ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m portant. Preeſſe omni<g ref="char:EOLhyphen"/>bas, ſubeſſe nul<g ref="char:EOLhyphen"/>li.</note> ſaith the Schoolmen, was, they would be <hi>over all,</hi> and <hi>under none;</hi> not contented to be <hi>advanced above every creature,</hi> unleſſe <hi>ex<g ref="char:EOLhyphen"/>empted</hi> from the <hi>command of their creatour,</hi> their pride put them on to ſtrive with God for ſovereignty. The Ancients, both Greeks and Latin Fathers, aſcribe the downfall of the Angels to this ſinfull lifting up.<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chry<g ref="char:EOLhyphen"/>ſoſt,</hi> de veſio <hi>Iſaiae,</hi> Hont. <hi>3. Iſa. 14.12.</hi> Nae eadem pec<g ref="char:EOLhyphen"/>cans cum d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a bolo eadem cum iſto patiatur.</note> 
+               <hi>Chryſoſtom</hi> obſerves other ſins invade a <hi>fleſhly nature only,</hi> but pride ſets upon that nature which is <hi>in<g ref="char:EOLhyphen"/>corporeall and inviſible,</hi> and caſt down <hi>Beelzebub</hi> from Heaven, and <hi>turned the Angel to a devil,</hi> and made him <hi>to be a devil, that before was no devil;</hi> will you beleeve the Prophet <hi>Iſay?</hi> and he admires, <hi>How art thou fallen from Heaven, O Lucifer ſon of the morning? for thou haſt ſaid in thy heart, I will aſcend above the height of the clouds, I will exalt my throne above the ſtars of God, I will be like to the moſt High.</hi> It may be, ſaith he, this teſtimony is not cogent and concluſive, becauſe allegoricall: Then read <hi>Paul,</hi> who giving direction that young converts ſhould not be ordain'd, 1 <hi>Tim.</hi> 3.6. ſaith, not a novice, leſt being <hi>lifted up with pride,</hi> he fall into the <hi>condemnation of the devil,</hi> and leſt that ſin <hi>of pride</hi> which <hi>deſtroyed Angels,</hi> ſhould be his ruin and condemnation. So <hi>Theophylact</hi> and <hi>Oceumenius,</hi> and <hi>Au<g ref="char:EOLhyphen"/>guſtin</hi> handling this queſtion, why Chriſt being God became man, gives this one reaſon among many others, Chriſt would not vanquiſh Satan with an act of power but of juſtice. 'Twas the deſire of power, that made the Angels forego their love to ju<g ref="char:EOLhyphen"/>ſtice, and to leave their firſt habitation:<note n="*" place="margin">Non antem diabolus poten<g ref="char:EOLhyphen"/>tiâ ſed juſtitia Dei ſuperantus fuit, non quod omnipotente potentior, ſed quod diabolus amator poten<g ref="char:EOLhyphen"/>tiae, <hi>&amp;c.</hi> Sic &amp; homines eum tanto magis imitantur quantò magis neglectâ juſtitiâ potentiae ſtudent, ejuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vel a deptione laetantur, vel inflammantur cupiditate, <hi>&amp;c.</hi> Vide <hi>Auguſtinum</hi> de Trinitate. <hi>lib. 13. cap. 13.</hi>
+               </note> And poor men herein drawn to imitate Satan, ſeeking rather to be great then good, and to graſpe with power then to ſeek integrity; Satan deſtroyed himſelf and <hi>Adam</hi> with pride, Chriſt <hi>redeems his with humili<g ref="char:EOLhyphen"/>ty,</hi> who had loſt <hi>themſelves by their inſolency.</hi> Secondly, Chriſt herein left us an example, never to ſeek to conquer Satan with power, but by integrity.</p>
+            <p>Hence its clear in all <hi>perſons,</hi> good and evil, in all <hi>ſtates</hi> and <hi>Nations,</hi> and in all kinde <hi>of beings spirituall</hi> or <hi>corporcall; If
+<pb n="28" facs="tcp:113372:17"/>pride once get in, deſolation cannot be kept out,</hi> all the world can never keep that <hi>man up,</hi> who never ſeeks to keep his own ſpi<g ref="char:EOLhyphen"/>rit <hi>low.</hi> Pride and unbelief are the two great ſins that oppoſe the <hi>Almighty</hi> in all his attributes.<note place="margin">Iames 4.6. 1 Pet. 5.5.</note> Therefore <hi>the Lord reſiſteth the proud:</hi> he abhors all other ſins, but he ſets himſelf in battle aray, to cauſe the arrogancy of the proud to ceaſe, and to humble every high look.</p>
+            <p>Pride is the forerunner of caſting down, becauſe it is an unruly evil.</p>
+            <p n="1">1. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> It keeps within no bounds. 1. It is Tyrannicall. 2. Unſatia<g ref="char:EOLhyphen"/>ble; as it is ſaid of the <hi>Aſſyrian,</hi>
+               <note place="margin">Hab. 2.5.</note> 
+               <hi>he is a proud man, he keeps not at home, but enlargeth his deſire as hell, and is as death that can<g ref="char:EOLhyphen"/>not be ſatisfied.</hi> 3. Its <hi>envious.</hi> What made <hi>Saul</hi> to <hi>eye David,</hi> and what makes any mans eye evil? becauſe <hi>Gods hand is good.</hi> And whence is it but from the pride of mans heart, that the Scri<g ref="char:EOLhyphen"/>pture ſaith (and that not in vain) <hi>that the heart of man lusteth unto envy?</hi>
+               <note place="margin">Iames 4.5.</note> 4. It is Contentious, the grand incendiary that ſets on fire <hi>Perſons,</hi> and <hi>Families,</hi> and <hi>Nations,</hi> and <hi>Kingdoms,</hi> and it ſelf is <hi>ſet on fire of hell;</hi>
+               <note place="margin">Prov. 23.10.</note> only <hi>by pride cometh contention.</hi>
+            </p>
+            <p n="2">2. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Pride doth not only carry the foul to all evil, but poiſons every good, and perverts that which is right. 1. <hi>
+                  <g ref="char:V">Ʋ</g>nfits the ſoul for every duty,</hi> willing that God ſhould ſerve us, and yet unwil<g ref="char:EOLhyphen"/>ling to ſerve God. 2. <hi>It makes the ſoul unthankefull for every mercy: Hezekiah</hi> a good man, yet when he fell under this di<g ref="char:EOLhyphen"/>ſtemper, <hi>he forgot to return unto the Lord, according to the mer<g ref="char:EOLhyphen"/>cies he had received.</hi> 3. <hi>It ſtops the ear againſt all admonitions.</hi> Pride is a paſſion tranſporting the minde beyond reaſon, makes the ſoul <hi>uncounſelable,</hi> and then leaves it <hi>miſerable. Aſa</hi> put the Prophet <hi>in priſon. Joaſh</hi> remembers not the kindeneſſe of <hi>Jeho<g ref="char:EOLhyphen"/>jada,</hi> but <hi>ſlayes Zachariah his ſon,</hi> for ſpeaking ſo plainly; <hi>Why tranſgreſſe ye the Commandments of the Lord that ye cannot proſper?</hi>
+               <note place="margin">2 Chron. 21.20, 22.</note> 
+               <hi>Amaziah</hi> is angry with the Prophet, askes him, <hi>Art thou made of the Kings counſell?</hi>
+               <note place="margin">2 Chro. 25.16.</note> 
+               <hi>forbear, why ſhouldeſt thou be ſmitten?</hi> The proud men ſay to <hi>the Seers, ſee not:</hi> therefore faith the Prophet,<note place="margin">Iſa. 30.10. Ier. 13.15.</note> 
+               <hi>hear and give ear, be not proud, give glory to the Lord, before he cauſe darkeneſſe, and before your ſeet ſtumble upon the darke mountains.</hi> 4. <hi>It ſcorns all threats,</hi> even when <hi>it hears the words of the curſe, it bleſſeth it ſelf, and ſaith, I ſhall
+<pb n="29" facs="tcp:113372:17"/>have peace, though I add drunkenneſſe to thirſt.</hi>
+               <note place="margin">Deut. 29.19.</note> 
+               <hi>Nebuchadnezzar</hi> his heart was lifted up, and <hi>hardned in pride,</hi> therefore <hi>he was de<g ref="char:EOLhyphen"/>poſed from his Kingly throne,</hi>
+               <note place="margin">Dan. 5.20.</note> 
+               <hi>and he was driven from the ſons of men.</hi> Laſtly, Pride <hi>warres against God,</hi> contends with the Al<g ref="char:EOLhyphen"/>mighty for ſovereignty: other ſins oppoſe ſome one attribute, this oppoſes all, ſetting wormes and rottenneſſe to contend with their Maker, therefore God abhors it, and God reſiſts it, and in this world layes the proud creature low, which would lay the ho<g ref="char:EOLhyphen"/>nour of his creatour in the duſt.</p>
+            <p>What was <hi>
+                  <g ref="char:V">Ʋ</g>zziahs</hi> tranſgreſſion? <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> 
+               <hi>He ſinned</hi> (you ſay) <hi>great<g ref="char:EOLhyphen"/>ly,</hi> his heart <hi>was lifted up;</hi> but we would gladly know wherein; tell us plainly, do not fear to diſcover the whole minde of God, <hi>we stand all here this day befire the Lord,</hi> this day to us is a ſha<g ref="char:EOLhyphen"/>dow of the great day of judgement, wherein we jointly appear to judge our ſelves that we may not be condemned with the world.</p>
+            <p>To this queſtion the ſolution is not difficult, the viſion is plain; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> his ſin ſtates every reader in the face; for the text is expreſſe, he <hi>went into the temple of the Lord, to burn incenſe on the altar of incenſe:</hi> And this ſin was</p>
+            <p n="1">1. Againſt <hi>a clear rule,</hi> in uſurping that power, and miniſtra<g ref="char:EOLhyphen"/>tion which no way appertained to him, <hi>Levit.</hi> 16.</p>
+            <p n="2">2. Many ſins concurred in the boſom of this tranſgreſſion: as firſt,</p>
+            <p n="1">1. An inordinate deſire of an undue eminency.</p>
+            <p n="2">2. Ingratitude <hi>againſt the Lord,</hi> who had helped him marvel<g ref="char:EOLhyphen"/>louſly, and againſt <hi>the Prieſts</hi> the ſervants of God, who had ſaved his grandfather <hi>Ioaſh</hi> from the conſpiracy of <hi>Athaliah,</hi> who had preſerved the ſeed Royall, and the lampe of the houſe of <hi>David</hi> from being utterly extinguiſhed in that unnaturall deſtruction; who alſo taught the good knowledge of the Lord;<note place="margin">2 Chro. 30.12.</note> whoſe do<g ref="char:EOLhyphen"/>ctrine had a great influence upon the peope, to appeaſe that great height and heat of ſpirit, which they had conceived againſt the former governours, that the people willingly ſubmitted to him, nothing all his reign was attempted againſt him. Now for <hi>
+                  <g ref="char:V">Ʋ</g>z<g ref="char:EOLhyphen"/>ziah,</hi> when he had got the hearts of the people, to riſe up, and aſſay to cut the throats of the Prieſthood, was an act of ſo great in<g ref="char:EOLhyphen"/>gratitude, as that (though man could do no more but lament
+<pb n="30" facs="tcp:113372:18"/>under it) yet God did both abhor it and ſeverely puniſh it.</p>
+            <p n="3">3. It was arrogancy to attempt to break thoſe ancient bounds of Gods own appointing: he had an admirable ability of uſing his other power well, and in the uſe thereof the bleſſing of God was upon him, and upon the Nation to a wonder: he now affects to have all adminiſtrations in his own hands, his ſhoulders he thinks fit for all burdens, power no where ſo well plac't as in himſelf, nothing can be now well done, in his apprehenſions, unleſſe he have a hand in the doing of it; he ſtretcheth out his hands ſo far and ſo wide, to catch at all, that the ſinews crack and break aſun<g ref="char:EOLhyphen"/>der, and now he that would comprehend all, is able to hold no<g ref="char:EOLhyphen"/>thing, and ſo ſtriving to receive what he had not, he is no longer able to retain what he had.</p>
+            <p n="4">4. It was pertinacy to perſiſt in this deſigne againſt all coun<g ref="char:EOLhyphen"/>ſels, deſires and entreaties, he had got that power that none could controll, and now who ſhall ſay unto him, what doſt thou? who<g ref="char:EOLhyphen"/>ſoever be pleaſed or diſpleaſed, he reſolves his will ſhall not be croſt, his diſtempers and his luſts ſhall be ſatisfied; it may be, he had this with his bloud, for both his father <hi>Amaziah,</hi> and his grandfather <hi>Joaſh</hi> died of this diſeaſe, could not endure the ad<g ref="char:EOLhyphen"/>monitions of the Prophets, but added pertinacy to iniquity, and ſo in three ſucceſſive generations, was that ſad proverbe verified, <hi>he that is often reproved and hardons his necke,</hi>
+               <note place="margin">Prov. 29.1.</note> 
+               <hi>ſhall be ſuddenly deſtroyed, and that without remedy.</hi>
+            </p>
+            <p n="5">5. Adde to all theſe aggravations his impiety againſt God, who had ſubdues his people under him, overaw'd the Nations round about him, ſet up his throne very high; Now, when God had freed him from the <hi>fear of man,</hi> for him to caſt off the <hi>fear of God,</hi> was to <hi>despiſe the riches of Gods goodneſſe and forbear<g ref="char:EOLhyphen"/>ance,</hi>
+               <note place="margin">Rom. 2.5.</note> not remembring <hi>that the goodneſſe of God leads to repent<g ref="char:EOLhyphen"/>ance,</hi> and ſo left him without excuſe; this was his tranſgreſſion.</p>
+            <p>But what was the deſtruction that the text ſpeaks of? <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> we have ſeen his diſeaſe at large, we would know the manner of his death, it's ſaid, his heart was lifted up to his deſtruction: was this deſtru<g ref="char:EOLhyphen"/>ction eternall?</p>
+            <p>There is indeed ſuch a deſtruction abiding children of diſobe<g ref="char:EOLhyphen"/>dience,<note place="margin">Sol.</note> the dread of which ſhould make every preſumptuous ſoul to tremble, and to flee from <hi>that wrath to come.</hi> But I thinke
+<pb n="31" facs="tcp:113372:18"/>that this was not the portion of his cup. I conceive (and ſo do moſt Expoſitours) and Hiſtorians that write of him, that <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> was a good man, a good Prince, he is reputed by moſt to have been a Saint: but what have Saints ſuch ſins? Yes.<note place="margin">1 Ioh. 1. <hi>ult.</hi>
+               </note> The holieſt men in the world have a mixture of unholy luſts; the ſins of the Saints are diſtaſtfull to God; he knows how to love their perſons, and to loath their tranſgreſſions, and though he will not break his covenant, nor ſuffer his faithfullneſſe to fail, yet he may, and often will viſit their <hi>tranſgreſſions with a rod,</hi>
+               <note place="margin">Pſal. 39.32, 33.</note> 
+               <hi>and their iniqui<g ref="char:EOLhyphen"/>ties with ſtripes.</hi>
+            </p>
+            <p>But if it was not eternall, what was then this deſtruction? was it temporall? All agree in this (and there is clear ground for it) juſt in the act of ſin God meets the preſumptuous ſinner, the <hi>word</hi> of God could not <hi>melt him,</hi> and now the <hi>rod</hi> of the Lord <hi>breaks him,</hi> and many judgements meet together to caſt him down, after this his ſinfull lifting up.</p>
+            <p>Firſt, Some obſerve, that firſt there was a great earthquake, there is ſome queſtion amongſt Learned men, whether it was at that very inſtant; but this is clear, that in the time of <hi>
+                  <g ref="char:V">Ʋ</g>z<g ref="char:EOLhyphen"/>ziah,</hi> there was an earthquake very dreadfull, mentioned by the Prophet <hi>Amos</hi> and <hi>Zechary,</hi>
+               <note place="margin">Amos 1.1. Zech. 14.5.</note> that they all <hi>fled before that earth<g ref="char:EOLhyphen"/>quake in the dayes of <g ref="char:V">Ʋ</g>zziah King of Judah.</hi> And <hi>Ioſephus</hi> is clear, that it was in this very moment of time, and the earth<g ref="char:EOLhyphen"/>quake was not only dreadfull to the people, but rent the rocks and mountains, eſpecially in the place called <hi>Erobe,</hi> and half the mountain towards the Weſt was torn in ſunder, and rolled many furlongs towards the Eaſt, whereby the publike way was obſtructed, and the Kings garden wholly covered.</p>
+            <p>Secondly, Some add another great wonder, that the top of the Temple was rent, and a glorious beam of the Sun was darted from Heaven upon the countenance of <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi>
+               <note place="margin">Inſeph. Anti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Iudai. <hi>lib. 9. cap 11.</hi> Immifit illi in fronte hoc molo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chryſo<g ref="char:EOLhyphen"/>ſtom</hi> in <hi>Eſay<g ref="char:EOLhyphen"/>am. Hom. 3.</hi>
+               </note> whilſt the Cen<g ref="char:EOLhyphen"/>ſer was in his hand to burn incenſe.</p>
+            <p>Thirdly, But this is ſure, God ſmote him with a leproſie, a ſad and dreadfull diſeaſe, and this leproſie roſe even in his fore-head: Some inquire, why in his fore-head? and they give this reaſon, that God would fill that face with ſhame that had been ſo ſhameleſſe. His deſire was after an inordinate excellency, and God plagues him with an extraordinary deformity.</p>
+            <pb n="32" facs="tcp:113372:19"/>
+            <p> Fourthly, Upon this he was ſet apart, laid aſide, and dwelt in a ſeverall houſe, being a Leper, taken away not only from the affairs of the Kingdom, but which was ſadder, driven from the ſociety of men,<note place="margin">2 Chro 26.21. Comp 33. Lev. 46.</note> and which was ſaddeſt of all, <hi>cut off from the houſe of his God.</hi>
+            </p>
+            <p>Fifthly, He was never reſtored to his dying day, the text ſayes expreſly, <hi>he was a leper till the day of his death.</hi> Some inquire, why did not the Prophets pray for his recovery? for in his time lived <hi>Iſay, Hoſea, Amos</hi> &amp;c. why did not they lift up their ſup<g ref="char:EOLhyphen"/>plication unto the Lord for the healing of ſo ſad a breach?<note place="margin">Abulenſ in H. L.</note> And it is anſwered, though the Prophets were deſirous to pray, yet it is poſſible they were forbid, that there was a prohibition unto them, like unto that which was not long after unto <hi>Ieremiah, Pray not thou for this people,</hi>
+               <note place="margin">Ier. 7.16.</note> 
+               <hi>neither lift up thy cry for them:</hi> or, They might pray, and yet God would not grant; for though the Lord be a God ever hearing the prayers of his ſervants, yet his hearing of requeſts is not alwaies by granting the things reque<g ref="char:EOLhyphen"/>ſted; God may deny in mercy, and grant in fury; God can give <hi>meats to ſinners for their luſts,</hi> but when the meat is in their mouths, the <hi>wrath of God comes upon them, and flayes the fatteſt of them:</hi> and God may deny in mercy: <hi>Moſes</hi> prayes to enter in<g ref="char:EOLhyphen"/>to <hi>Canaan,</hi> and is denied, yet enters into the reſt whereof <hi>Cana<g ref="char:EOLhyphen"/>an</hi> was but a type. <hi>Paul</hi> prayes thrice, that the meſſenger of Sa<g ref="char:EOLhyphen"/>tan, the thorn in the fleſh might be removed; God anſwers, my ſtrength is ſufficient for thee, and my power is made perfect in weakneſſe.</p>
+            <p>Sixthly, Some thinke that this very blow broke his heart, and that he never lifted up his head after this caſting down; <hi>Ioſephus</hi> ſayes,<note place="margin">Ioſeph.</note> he died <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he that could not enjoy <hi>the good of comfort without ſwelling,</hi> was not notable to <hi>endure the evil of diſcomfort without fainting.</hi>
+            </p>
+            <p>What is all this to us? <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>3</label> What if <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> tranſgreſſed very much againſt the Lord? and what if the Lord was ſore diſpleaſed with him? Do you not thinke in your conſcience that there is a great difference bewixt the ſtate of the Church, then under <hi>Moſes,</hi> and the ſtate of the Church now in times of the Goſpel? Were there not 1. many ordinances then, and 2. tranſgreſſions of thoſe ordinances, &amp; 3. puniſhments of God upon thoſe tranſgreſſions?
+<pb n="33" facs="tcp:113372:19"/>which are all now <hi>done away in Chriſt:</hi> Thoſe divers worſhips and carnall ordinances, being impoſed on the <hi>Jew, till the time of Refirmation,</hi> and that bringing in <hi>of a better hope;</hi> What is this to us? For anſwer hereunto,<note place="margin">Sol.</note> 1. May not this example cry to you, as the Church doth <hi>in the day of her calamity?</hi>
+               <note place="margin">Lament. 1.12.</note> 
+               <hi>Is it nothing to you (all ye that paſſe by) behold and ſee if there be any ſorrow like unto my ſorrow?</hi> Why is this precedent left upon record? <hi>All theſe things happened to them for enſamples,</hi>
+               <note place="margin">1 Cor. 10.11.</note> 
+               <hi>and they are writ for our admonition, upon whom the ends of the world are come.</hi> 2. Conſider he was a man, a profeſſour, an eminent Go<g ref="char:EOLhyphen"/>vernour, honoured of the Lord, admired of the people, yet he <hi>tranſgreſſed very much; Chryſostome</hi> admites that a <hi>man</hi> ſo <hi>pious,</hi> a <hi>Prince</hi> ſo <hi>prudent,</hi> ſhould ſo ſadly miſcarry; that he who had attained ſo many victories, cauſed all his enemies to <hi>flee</hi> or <hi>fall</hi> before him, now himſelf in the height of his eminency ſhould fall and not be able to recover: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Quia potiur nihil hic eſſe debet dignum haefitatione. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ho<g ref="char:EOLhyphen"/>mo res ad pec<g ref="char:EOLhyphen"/>candum lubrica. <hi>Chryſoſtome. 1 Cor. 10.13.</hi>
+               </note> I wonder and ſtand amazed at it! But he anſwers himſelf, and that an<g ref="char:EOLhyphen"/>ſwer may be ſomething to us. Surely, ſaith he, upon ſecond thoughts, there is no ſuch cauſe or wonder: <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> was wiſe and godly, yet he was a man; And what is man but a poor creature, dark and ſlippery? a thing <hi>prone to tranſgreſſe,</hi> and every mo<g ref="char:EOLhyphen"/>ment ready to run upon his own ruin. If he, becauſe clothed with humane nature was ſubject to infirmities, conſider your ſelves, <hi>that ye alſo are in the ſame body,</hi> not freed from this or <hi>any temptation that is common to men:</hi> and what man ever left to himſelf, was able to keep himſelf from any tranſgreſſion? <hi>Wherefore</hi> (ſaith the Spirit) <hi>let him that thinketh he standeth, take heed left he fall.</hi>
+            </p>
+            <p>We eaſily confeſſe we may tranſgreſſe; <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> for what man is he that ſins not? But yet if all theſe ordinances which then obliged the conſcience, be not done away, and long ſince ceaſed, and if there be no ſuch rule under the Goſpel, then we can never ſin this ſin of <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> nor conſequently need we be afraid of his judgement, for ſurely where there is <hi>no law</hi> there can be <hi>no tranſgreſſion.</hi> Is there any rule now in times of the Goſpel? hath Chriſt left any rule in the word touching Government? Is there any platform <hi>yure divino?</hi> if there be, we would gladly ſee it; and if there be not, then is it not left unto Chriſtian prudence?</p>
+            <pb n="34" facs="tcp:113372:20"/>
+            <p> They that ſay that every particular herein is ſo cleerly and ſo punctually determined, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> that nothing is left to Chriſtian prudence, following the generall rules which Chriſt hath left his Church: They that hold this aſſertion, had need to have cleerer grounds, and more cogent arguments then yet have appeared to the beſt obſervation of many who have earneſtly deſired to ſee light here<g ref="char:EOLhyphen"/>in; and they that hold, that nothing at all is determined in times of the Goſpel, how things ſhould be ordered in the houſe of God, but that all things are left to humane prudence, ſeem to run upon an <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>our, equally as groundleſſe and more dangerous: then the former.</p>
+            <p>In this great queſtion, ſome things ſeem more clear, others more diſputable; the things that are cleer, I mean, to ſober ſpi<g ref="char:EOLhyphen"/>rits, for to men that are ſchepticks and reſolv'd to employ the e<g ref="char:EOLhyphen"/>minency of their gifts, not in being humble beleevers, but rather to be among the high diſputers of this world, as the Apoſtle ſaith, <hi>to the impure there is nothing pure,</hi> but mindes and conſciences are defiled; ſo experience findes it true, that nothing is ſo cleer, but a wanton wit, and an unhumble heart will count it darke, or call it into queſtion.</p>
+            <p>It times of the Goſpel,<note place="margin">Poſition <hi>1.</hi>
+               </note> Jeſus Chriſt hath appointed ſome, and not all to be Miniſters, diſpenſers of his ordinances, <hi>ſtewards of the myſteries of Ieſus Chriſt:</hi>
+               <note place="margin">1 Cor. 12.28.</note> For beſides that common rule grounded on experience, that which is every mans worke uſually proves no mans;<note place="margin">Epheſ. 4.8, 11.</note> the word of God is expreſſe, God hath <hi>ſet ſome,</hi> not all <hi>in the Church to be teachers.</hi> Chriſt when he aſcended up on high, gave peculiar gifts unto men, and he <hi>gave ſome,</hi> not all to be <hi>Pastours and teachers, for the perfecting of the Saints, for the worke of the ministry, for the edifying of that body of Christ:</hi> and though theſe gifts and this calling be peculiar to ſome, and not all yet the benefit is to redound to all, <hi>v.</hi> 13. <hi>till we all come in that unity of faith, and of that knowledge of the Son of God, unto a perfect man.</hi> Doth not that Scripture expreſly diſtinguiſh be<g ref="char:EOLhyphen"/>tween thoſe perſons that <hi>are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought in the ward,</hi>
+               <note place="margin">Gal. 6.6.</note> and thoſe <hi>who are teachers?</hi> betwixt <hi>the ſhepherds and the ſheep?</hi> betwixt the Elders that feed the flock,<note place="margin">1 <hi>Pet.</hi> 5.1, 2.</note> and thoſe <hi>that are to be fed by them?</hi> Was it the invention of man, or the inſtitution of Jeſus, that at <hi>Epheſus</hi> and <hi>Miletus,</hi>
+               <note place="margin">Acts 10.17.</note> there ſhould be Elders of that Church?
+<pb n="35" facs="tcp:113372:20"/>who are <hi>commanded to take heed not only to themſelves, as other Chriſtians, but to all that flock whereof, not</hi> (only man) <hi>but the holy Ghoſt hath made them overſeers,</hi>
+               <note place="margin">1 Theſ. 5.12. ver. 13.</note> 
+               <hi>and to feed the Church of God which he hath purchaſed with his own blood?</hi> And if it be the command of the Goſpel to all Saints, as the Apoſtle ſaith, <hi>to know them which labour among you, and are over you in the Lord, and admoniſh you, and to eſteem them highly for their worke ſake,</hi> then it muſt needs be a ſin againſt the Goſpel, to revile and ſcorn thoſe <hi>who labour in the word and doctrine,</hi>
+               <note place="margin">Heb. 13.7.</note> whom God would have all beleevers to remember,<note place="margin">1 Tim. 5.17.</note> and to <hi>count worthy of double honour.</hi>
+            </p>
+            <p>Thoſe peculiar perſons (who ever they be) that are diſpenſers of theſe miſteries, <hi>muſt be call'd</hi> unto,<note place="margin">Poſition <hi>2.</hi>
+               </note> before <hi>they enter</hi> upon this worke; <hi>For no man takes this honour to himſelf,</hi>
+               <note place="margin">Heb. 5.4.</note> 
+               <hi>but he that is call'd of God as Aaron was,</hi> and thoſe <hi>whom God calls, muſt be perſons qualified to this function.</hi> 1. They muſt be gifted of God, how can any conclude themſelves to be ſent of God, when they are not gifted of God? Are they fit to be Seers by office, and take overſight of the flock, who are altogether blinde in themſelves? <hi>If the blinde lead the blinde, both fall into the ditch;</hi> and there<g ref="char:EOLhyphen"/>fore the Apoſtle obſerves, that Chriſt after his aſcenſion <hi>gave gifts to men,</hi> and then he gave ſome to be Paſtours and teachers.<note place="margin">Epheſ. 4.8, 11.</note>
+            </p>
+            <p>Secondly, Theſe called ones muſt be willing to be ſet apart, and to lay out the gifts received, in this great imployment, to <hi>ſeed the flock of Chriſt, taking the over ſight thereof, not by conſtraint, but willingly; not for filthy lucre, but of a ready minde.</hi>
+               <note place="margin">1 Pet. 5.2.</note>
+            </p>
+            <p>Thirdly, There gifts muſt be approved by men of judgement, and ſuch as are fitted with ability and authority to judge: for if every man may be ſole judge of his own gifts, or they that are not gifted themſelves be judges of the gifts of others, then in a little time <hi>clerus Angliae,</hi> will be found to be <hi>ſtupor mundi,</hi> not in that ſenſe wherein it was firſt meered, but in the worſt ſenſe that can be imagined; therefore we read, that when the Apoſtles had preached the Goſpel at <hi>Derbe</hi> and <hi>Lyſtra,</hi> at <hi>Iconium</hi> and at <hi>Ar<g ref="char:EOLhyphen"/>tioch,</hi> confirming the ſouls of the Diſciples, and leſt that worke ſhould die when they departed, before their departure they ap<g ref="char:EOLhyphen"/>point Miniſters to lead them on to perfection; and they ordain<g ref="char:EOLhyphen"/>ed them <hi>Elders in every City, and prayed with faſting,</hi>
+               <note place="margin">Act 14.23.</note> 
+               <hi>and com<g ref="char:EOLhyphen"/>mended
+<pb n="36" facs="tcp:113372:21"/>them to the Lord, in whom they beleeved.</hi>
+            </p>
+            <p>Thoſe that are thus <hi>called &amp; ſent, have ſome peculiar charge and ſpeciall truſt committed to them,</hi>
+               <note place="margin">Poſition <hi>3.</hi>
+               </note> 
+               <hi>to teach, exhort,</hi> &amp;c. not only by way of fraternall charity, which is common to Chriſtians as Chri<g ref="char:EOLhyphen"/>ſtians, to be teaching and admoniſhing one another,<note place="margin">Col 3.18. 1 Pet 5.3. 2 Cor. 1.24.</note> but in <hi>way of miniſteriall authority;</hi> miniſteriall, not as Lords over <hi>Gods heri<g ref="char:EOLhyphen"/>tage,</hi> or as ſuch as <hi>have dominion over your faith,</hi> but as ſuch <hi>as are helpers of your joy</hi>—Yet is this Miniſtery accompanied with a ſpeciall peculiar authority, otherwiſe what is the meaning of thoſe Scriptures? 1. Why are they called not <hi>heirs of ſalvation,</hi> which is the common, yet high priviledge of all Saints, but pecu<g ref="char:EOLhyphen"/>liarly the <hi>Ministers of Chriſt,</hi>
+               <note place="margin">1 Cor. 4.1. 1 Tim. 3.5. 2 Pet. 5.2. Acts 20.28.</note> 
+               <hi>stewards of the misteries of God?</hi> 2. Why are they ſaid peculiarly <hi>to take eare of the Church of God,</hi> to take <hi>over-ſight of the flock that the holy Ghoſt hath made them overſeers?</hi> 3. Why are thoſe ſpeciall commands given to them, <hi>to feed the flock of God among them, to preach the word of God,</hi>
+               <note place="margin">2 Tim. 4.2. 1 Tim. 5.20.</note> 
+               <hi>to be inſtant in ſeaſon and out of ſeaſon, reprove, rebuke with all long-ſuffering and doctrine, and yet with all authority too;</hi> and when men ſin publikely and <hi>ſcandallouſly, to rebuke them before all, that others alſo may fear?</hi> 4. <hi>Why are ſuch threats denounced</hi> if they neglect this charge, and in ſtead of feeding the flock, feed themſelves? If this belong equally to all Chriſtians, why ſhould any one ſay more then another, <hi>Neceſ<g ref="char:EOLhyphen"/>ſity is laid upon me, and wo is unto me if I preach not the Gospel;</hi> If I do this <hi>willingly I have a reward,</hi>
+               <note place="margin">1 Cor. 9.16, 17.</note> 
+               <hi>but if againſt my will— A diſpenſation is committed unto me?</hi> how can any one ſay, a di<g ref="char:EOLhyphen"/>ſpenſation is committed to me, if no ſuch peculiar diſpenſation be committed to any?<note place="margin">1 Theſ. 5.12. Heb. 13.7.</note> 5. <hi>Why are there ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many rules given to Saints,</hi> how to carry themſelves towards them? why are be<g ref="char:EOLhyphen"/>leevers enjoyn'd to know, to take ſpeciall notice of them that <hi>la<g ref="char:EOLhyphen"/>bour amongst them,</hi>
+               <note place="margin">ver. 17. 1 Tim. 5.17. Gal. 6.6.</note> 
+               <hi>to remember them that have the rule over them, to obey them and ſubmit themſelves unto them, to court them worthy of double honour, to communicate to them in all good things?</hi> 6. If no peculiar charge be committed to them more then to all profeſſours, why are they enjoyned to watch over the ſouls of others, <hi>as thoſe that muſt give an account?</hi> which has made the hearts of conſciencious Miniſters in all times to quake and tremble; for if he that offend one be in ſo ſad a con<g ref="char:EOLhyphen"/>dition
+<pb n="37" facs="tcp:113372:21"/>that it is better a millſtone were hang'd about his head, and himſelf caſt into the midſts of the ſea; if ſo hard to watch <hi>over one,</hi> to give an account <hi>for one,</hi>
+               <note place="margin">Heb. 13 7.</note> on how hard is it to <hi>give an ac<g ref="char:EOLhyphen"/>count for others?</hi> Surely if no peculiar care or charge be laid up<g ref="char:EOLhyphen"/>on the Miniſters of the Goſpel, then is the worke of the Miniſtry far eaſier then the beſt of men in all ages have imagined,—why was <hi>Baſil</hi> ſo unwilling to undertake that function?</p>
+            <p>All thoſe fears, ſorrows, that invaded the heart of <hi>Chryſostome,</hi>
+               <note place="margin">Vid. <hi>Chryſom.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Vid. <hi>Chryſom.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. lib. <hi>6.</hi>
+               </note> whereby his body was weakned, and his minde overwhelmed, that he ſtood for a long time as a man aſtoniſhed, that could nei<g ref="char:EOLhyphen"/>ther hear, nor ſet, nor ſpeak, and when he recovered himſelf, he wept abundantly, powred out his ſoul in tears.</p>
+            <p>Suppoſe we beleeve all this, for herein God hath made this vi<g ref="char:EOLhyphen"/>ſion plain, and theſe are not the particulars that ſeem doubtfull, wherein we are met this day to ſeek direction of the Lord: We ea<g ref="char:EOLhyphen"/>ſily grant that a ſpeciall diſpenſation is committed to the Mini<g ref="char:EOLhyphen"/>ſtres: But the queſtion is, What thoſe great peculiarities are which Jeſus Chriſt hath committed unto them in the times of the Go<g ref="char:EOLhyphen"/>ſpel, which God would have kept diſtinct?</p>
+            <p>Whether is it the minde of Jeſus Chriſt in the times of the Go<g ref="char:EOLhyphen"/>ſpel,<note place="margin">
+                  <hi>1</hi> Quaere.</note> that Miniſters ſhould <hi>intermeddle with civil affairs belong<g ref="char:EOLhyphen"/>ing to the Magiſtrate,</hi> as the Levites and Prieſts were ap<g ref="char:EOLhyphen"/>pointed of old to be judges, and to determine of <hi>controverſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi> Are not the Miniſters now bound (more then the Levites then were) to <hi>give attendance to reading,</hi>
+               <note place="margin">1 Tim. 4.13.</note> 
+               <hi>to the ſtudying of the Scri<g ref="char:EOLhyphen"/>ptures, as well as to preach<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and to give themſelves <hi>to exhorta<g ref="char:EOLhyphen"/>tion and doctrine?</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The<g ref="char:EOLhyphen"/>ophylactus. Timothy 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in his <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o.</note> If <hi>Timothy</hi> ſo charged, why not others whoſe gifts are weaker? Are they not commanded to give themſelves wholly to theſe things, meditation them, be wholly in them, and to this end not to entangle themſelves with things of another warfare?</p>
+            <p>Whether though Miniſters may not meddle with thoſe things that are civil, yet may not the Magiſtrate (ſpecially if Chriſtian) meddle with every thing that is Eccleſiaſticall?</p>
+            <p>If God would have the Magiſtracy and Miniſtry <hi>(quâ tales)</hi> to be diſtinct,<note place="margin">1 Tim 4.5. 2 <hi>Quaere.</hi> 3 <hi>Quaere.</hi> Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 25.10, 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> then what are thoſe limits and bounds that God hath ſet both to the one and to the other? Hath God done to them, as he hath to the ſea, <hi>ſet bounds and doors,</hi> and ſaid, <hi>Hitherty ſhalt thou come, but no further?</hi>
+            </p>
+            <p n="1">
+               <pb n="38" facs="tcp:113372:22"/> 1. Are all particulars herein <hi>jure divine?</hi> Is this a truth cleer<g ref="char:EOLhyphen"/>ly expreſſed in the word, or ſtrongly deducible from it?</p>
+            <p n="2">2. Or is nothing at all <hi>jure divine?</hi>
+            </p>
+            <p n="3">3. Or if both the former be equally groundleſſe, and the truth lies between theſe two extreams, and that ſomething be determin<g ref="char:EOLhyphen"/>ed cleerly to be <hi>jure divine,</hi> and ſome other things only fall under generall <hi>comprehenſive rules,</hi> which may admit of <hi>a variety</hi> and <hi>a latitude in practice,</hi> without any manifeſt tranſgreſſion, ſo the generall ſcope of theſe rules be obſerved,—Then we would know, what are thoſe ſpeciall both of the firſt kinde, and of the later, that we may neither <hi>aſſume a liberty</hi> wherein God hath <hi>made a reſtriction,</hi> nor <hi>groundleſly binde up our ſelves with reſtrictions,</hi> where the Lord <hi>hath left a latitude to Chriſtian prudence and pious moderation.</hi>
+            </p>
+            <p>Theſe and the like queſtions,<note place="margin">Sol.</note> are fitter for a thorow debate elſewhere, then for a Pulpit: and in debate <hi>no queſtion is more tender then that of power,</hi> and about power; what more intri<g ref="char:EOLhyphen"/>cate, then poſitively to determine and ſet exact ſimits for power, thus far you may, and in caſe you muſt or elſe ſin, and yet no fur<g ref="char:EOLhyphen"/>ther? Diſputes uſually herein have more <hi>heat</hi> then <hi>light,</hi> and I am not here this day to adde <hi>fewell</hi> to the <hi>flame,</hi> but <hi>powre out water,</hi> and, if it were poſſible, tears of blood, tears of blood to <hi>quench that burning</hi> which our ſins have kindled.</p>
+            <p>We are all met here this day together, not to hear a private mans determination, but to ſeek direction from the publike Spirit of the only wiſe God; the good Lord helpe us all to do it in all ſin<g ref="char:EOLhyphen"/>cerity, that <hi>there may be no Idol in your hearts,</hi>
+               <note place="margin">Ezck. 14.4.</note> 
+               <hi>leſt the Lord anſwer us according to the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of our Idols<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> but that we may all lay down all preingagements at the foot of the throne of Jeſus Chriſt, that we may all cry with one heart and one mouth, <hi>Lord,</hi>
+               <note place="margin">Pſal. 43.3.</note> 
+               <hi>ſend out thy light and thy truth, let them guide us:</hi> Make thy ſervants <hi>to know the way wherein thou wouldeſt have them to walke:</hi> and as the Church in former times, <hi>O thou that dwelleſt between the Cherubims, ſhine forth before Ephraim, Beuja<g ref="char:EOLhyphen"/>min and Manaſſeh:</hi> So wein our generation may cry, <hi>O thou that heareſt prayers, ſhine forth before the Lords, Commons and Aſſembly,</hi> before <hi>England, Scotland</hi> and <hi>Ireland, ſtir up thy ſtrength, and come and ſave us.</hi>
+            </p>
+            <pb n="39" facs="tcp:113372:22"/>
+            <p> But is there no direction to be given, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> that at leaſt in ſome degree may be uſefull?</p>
+            <p>In anſwer whereunto,<note place="margin">Sol.</note> I intreat you give me leave to lay down at your feet a three-fold conſideration.</p>
+            <p n="1">1. Conſider the <hi>difficulty in determining;</hi> the wiſeſt of men,<note place="margin">
+                  <hi>1</hi> Conſider<g ref="char:EOLhyphen"/>ation.</note> when left to themſelves, how ſubject are they to miſcarry: when we ſeriouſly take into our thoughts the greatneſſe of the danger that may enſue upon miſtakes, it may make every mans heart to quake and tremble, <hi>and rottenneſſe to enter into our boues.</hi> 1. If the Lord helpe not marvellouſly, miſtakes are eaſie. 3. If you ſin herein you <hi>ſin not alone;</hi> it is not <hi>the ſin of ſo many pri<g ref="char:EOLhyphen"/>vate men: Noble Senatours</hi> you are the <hi>pillars of the land, the ſtay of the Tribes thereof:</hi> if the ſupports fall, what can become of the reſt of the fabrick? When <hi>Rehoboam forſook the Lord,</hi>
+               <note place="margin">2 Chro. 12.</note> 
+               <hi>all Iſrael followed after him;</hi> therefore the Lord ſpeaks to you, as <hi>Joſhua</hi> to the men of <hi>Gad, Reuben</hi> and half Tribe of <hi>Manaſſeh, Did not Achan commit a trespaſſe,</hi>
+               <note place="margin">Ioſh. 22.20.</note> and wrath fell on the whole Congregation of <hi>Iſrael,</hi> and that man alone periſhed not in his iniquity? 3. This ſin is likely to live when ye are dead; and of all ſins, every ſervant of God had need take heed of <hi>thoſe ſins moſt,</hi> which may diffuſe themſelves, not only to the men of <hi>the preſent age,</hi> but to <hi>after-generations;</hi> which may both go be<g ref="char:EOLhyphen"/>fore,<note place="margin">Baſil Magn. apud Theophy<g ref="char:EOLhyphen"/>lactum. in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oc. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Baſil</hi> Magn. apud <hi>Theophy.</hi> in loc.</note> and follow us to judgement, which ſome do not only reſtrain to the caſe of Ordination, but extend to other ſins that are exem<g ref="char:EOLhyphen"/>plary. —Some ſins are only private and perſonall, when the <hi>ſin<g ref="char:EOLhyphen"/>ner dies</hi> they <hi>die with him;</hi> but when men erre themſelves, and lead others into errour, theſe errours and miſtakes follow the ſin<g ref="char:EOLhyphen"/>ner unto judgement, and they ſhall give an account and ſuffer, not only becauſe they themſelves were ſeduced, but becauſe they were authours of ſeducements unto others.</p>
+            <p n="2">2. Conſider not only <hi>difficulty in determining.</hi> but the <hi>danger in delaying.</hi> 1. Delayes do not leſſen difficulties, there will ever be ſome impediments, and <hi>that which hinders will hinder,</hi> till ta<g ref="char:EOLhyphen"/>ken away. 2. Breaches and differences grow wider; all the ſoundations ſeem to go out of order, when a bone is gone out of joynt, is it not wiſedom, rather <hi>to ſuffer the pain in ſetting,</hi>
+               <note place="margin">
+                  <hi>2</hi> Conſider<g ref="char:EOLhyphen"/>ation.</note> then to ſuffer it to abide ſo long in the diſlocation, till at laſt it fiſtula or gangrene, and then after far greater pain, no hope of cure but
+<pb n="40" facs="tcp:113372:23"/>by reſection? 3. <hi>Spirits of men grow higher.</hi> 4. <hi>Expectations of the moſt in waiting grow weary.</hi> 5. <hi>Religion it ſelf through needleſſe diſputes is greatly endangered,</hi> to run out wholly into <hi>opinion,</hi> as ſeed in a wet ſeaſon, runs up into bulke, the ſtraw is long and ear ſhort, and when the crop for the burden of it is ve<g ref="char:EOLhyphen"/>ry great, yet the return for profit and uſe very little,—Some compare it to the diſeaſe called the Rickets in tender children, who in the face look well, and ſwell in upper parts, but ſhrinke downwards. It was the reproach of the Church of <hi>Rome,</hi> that it was all head: let that abide ſtill the character of the man of ſin, that there be no cauſe juſtly to apply it to any that profeſſe godlineſſe. It is a common complaint in the bodies of many, that in their diſeaſe which ſome call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>viſcerum,</hi> they finde their <hi>ſtomacks to be cold,</hi> and their <hi>liver to be hot;</hi> but a <hi>her head</hi> and a <hi>cold heart</hi> is the worſt temper, (or diſtemper ra<g ref="char:EOLhyphen"/>ther) that can befall a Chriſtian. What ſight can be ſadder, then to ſee all our ſtrength of Chriſtianity in opinion, and nothing in converſation? Surely it is good that <hi>the heart be eſtabliſhed with grace,</hi> not with meats and drinks, which have not profited them that have been occupied therein—<note n="*" place="margin">Pari paſſu a<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>tlare poſ<g ref="char:EOLhyphen"/>ſſunt omnis reli<g ref="char:EOLhyphen"/>gro &amp; rulla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ligio. <hi>Gerhard.</hi> de Magiſt. <hi>pag. 60<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Diaſcorus Au<g ref="char:EOLhyphen"/>guſtin. <hi>Epiſt. 55.</hi> Tune, O Diaſ. core. <hi>&amp;c.</hi> Scire tua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>bit eſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſi te ſcire, boc ſciat alter. E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a doctus &amp; pruder us neſ<g ref="char:EOLhyphen"/>cias. R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpublicam exparvâ mag<g ref="char:EOLhyphen"/>nan facere. Reſpondere poſ. ſit, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e iſta neſ<g ref="char:EOLhyphen"/>cire, &amp; noſſe quomodo ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e iſt is bono po<g ref="char:EOLhyphen"/>teſt eſſe bea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us <hi>Aug. Diaſcoro.</hi> Epiſt. <hi>56.</hi>
+               </note> It is obſerved by learned men, that when Scepticiſme comes in upon Chriſtians <hi>as a ſtood,</hi> it hath been the <hi>next doore to let</hi> in <hi>Epicuriſme</hi> and <hi>Atheiſme to overflow</hi> and <hi>cover</hi> the earth as <hi>waters do the ſea.</hi> When <hi>Diaſ<g ref="char:EOLhyphen"/>corus</hi> propounded ſome curious queſtions to <hi>Auguſtine,</hi> and ſollicited him earneſtly for a preſent anſwer, <hi>Augustine</hi> rebukes him ſharpely, and refutes that deſire ſtrongly, tells him there is a knowledge that puffeth up, when we deſire to know that we may be known, that there are many ſpeculations whereof there may be a learned and prudent ignorance.—That <hi>Themiſtocles,</hi> being at a feaſt entreated to ſing and play on an inſtrument, an<g ref="char:EOLhyphen"/>ſwered, he knew not how to do the one or the other; and when it was demanded of him, what knoweſt thou? he then replyed, to make the Common-wealth of little to become great. If he could ſay ſo, why ſhouldſt thou doubt to anſwer in theſe ſpeculations, I confeſſe my ignorance?—But though I know not them yet, <hi>this I know, that without them a man may be happy.</hi> When men are ſick, it is their wiſedom to ſeek out, not thoſe things that may pleaſe the phanſie, but thoſe medicines that may purge out the di<g ref="char:EOLhyphen"/>ſeaſe.</p>
+            <pb n="41" facs="tcp:113372:23"/>
+            <p> You tell us there are <hi>difficulties in determining,</hi>
+               <note place="margin">Quaery.</note> and <hi>dangers in delaying,</hi> which way ſoever you turn, dangers and difficulties are round about us—It is a kinde of contradiction, to preſſe men to <hi>forbear delaying,</hi> and yet to tell them, <hi>ſin lyes at the door in determining.</hi> Would you have us determine in the darke?</p>
+            <p>Here is the ſtrait <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and we cry out this day as <hi>Jehoſhaphat</hi> did,<note place="margin">Sol.</note> 
+               <hi>We know not what to do, but our eyes are towards thee.</hi> And bleſſed be the God of Heaven <hi>that hath put ſuch a thing as this into your hearts, most Noble Senatours,</hi> to ſeek to the God of your fathers, in this extremity let your <hi>eyes be ever towards the Lord, and he ſhall bring you out of your diſtreſſes;</hi> for the <hi>patient expectation of his people ſhall not periſh for ever:</hi> And when <hi>he prepares their heart to prayer, he cauſes his own ear to hear.</hi>
+            </p>
+            <p>Are there no directions which might be ſome way uſefull to expedite this great difficulty? <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label>
+            </p>
+            <p>Give me leave to lay down ſome generall Rules at your feet,<note place="margin">Sol.</note> which may in ſome degree be as a lampe ſhining in a darke place.</p>
+            <p n="1">1. Be afraid rather to <hi>miſtake your duty</hi> in this great cauſe,<note place="margin">Rule <hi>1.</hi>
+               </note> then <hi>to grapple with any difficulty.</hi> Its a great argument of ſin<g ref="char:EOLhyphen"/>cerity, when the ſoul is more afraid of <hi>the evil of ſin,</hi> whereby we diſpleaſe God, then of any <hi>evil of miſery,</hi> whereby God and man may diſpleaſe us; and therefore pray, <hi>Lord, teach us the way wherein thou wouldſt have us to walke,</hi> make us to know what is our evil, and what is our ſin, ſearch us and try us, and if there be any wickedneſſe in us, lead us in the way everlaſting; that in this cauſe of Chriſt, you may prefer <hi>godly ſimplicity</hi> above <hi>all carnall policie;</hi> and let no man <hi>defraud or go beyond another, for God is an avenger of ſuch things:</hi> ſo ſhall you partake of that great promiſe, <hi>that integrity and uprightneſſe ſhall preſerve you in his way, and your ſteps ſhall be ordered by the Lord, and he will delight in your goings.</hi> Although the heart be upright, and hath Gods promiſe to inſtruct them with his eye, and to guide them with his counſel, yet the way may <hi>be darke and ſlippery.</hi> Therefore obſerve this,</p>
+            <p>That when the way wherein you ſhould walke is darke,<note place="margin">Rule <hi>2.</hi>
+               </note> yet <hi>the end</hi> that is to be aimed at <hi>may be clear,</hi> and the <hi>cleerneſſe of the end, gives a great deal of light unto the way</hi> that in it ſelf is full of darkneſſe. Now the Goſpel holds out the ends we ſhould aim at very clear: As</p>
+            <p n="1">
+               <pb n="42" facs="tcp:113372:24"/> 1. Chriſts end is, that the purity of Ordinances may be <hi>exalt<g ref="char:EOLhyphen"/>ed,</hi> that profaneneſſe might be <hi>ſuppreſſed,</hi> that the old leaven may be purged out, that offences may be removed, that the power of godlineſſe may be countenanced; what ever power Chriſt has given to his Church, he <hi>gave it to that end,</hi> for which alſo <hi>he gave himſelf,</hi>
+               <note place="margin">Epheſ. 3 26.</note> that he might <hi>ſanctifie and cleanſe it,</hi> till the day come wherein he preſents it to himſelf <hi>a glorious Church, not having ſpot or wrinkle,</hi> that ſo it may be holy and without blemiſh.</p>
+            <p n="2">2. Chriſts end is, <hi>that mutuall love may be enoreaſed,</hi> that beleevers may <hi>purifie their ſouls,</hi>
+               <note place="margin">1 Pet. 1.12.</note> 
+               <hi>in the obeying of the truth through the Spirit, unto the unfeigned love of the brethren, that they may love one another with a pure heart fervently.</hi> All light without love is obſcure darkneſſe, that is the great end Chriſt aim<g ref="char:EOLhyphen"/>ed at:<note place="margin">Joh. 15 12.</note> 
+               <hi>Theſe things I command you, that you love one another, this is the old and new command, the character whereby Christ and his Diſciples ſhall be diſcerned;</hi> without this it is not poſſible to attain the <hi>great end</hi> propounded in the Goſpel. Can any build<g ref="char:EOLhyphen"/>ing ſtand, when one ſtone will not lye upon, nor <hi>neer another?</hi> Is not the whole naturall body join'd by bands and ligaments? and are there no ligaments whereby Chriſt hath join'd together the members of his myſticall body? Is not the Scripture expreſſe, that the end why God gave Officers to his Church, was, that <hi>the whole body might be fitly joyned together and compacted,</hi>
+               <note place="margin">Epheſ. 4 16.</note> 
+               <hi>by that which every joynt ſupplies, might make increaſe in the ſame bo<g ref="char:EOLhyphen"/>dy, to the edifying of it ſelf in love?</hi> And the end alſo why <hi>Chriſt gives grace, effectually to call them that are choſen,</hi> and viſibly to build them upon the <hi>foundation of the Apoſtles and Prophets, Jeſus Chriſt himſelf being the chief corner-ſtone,</hi>
+               <note place="margin">Epheſ. 2.21.</note> his end is, <hi>that all the building fitly fram'd together, may grow to be a holy Temple in the Lord, in whom ye are builded together for an ha<g ref="char:EOLhyphen"/>bitation of God through his Spirit.</hi>
+            </p>
+            <p n="3">3. The end that Chriſt would have us to aim at, is, that <hi>tyran<g ref="char:EOLhyphen"/>ny</hi> and <hi>ſchiſme</hi> may be both prevented: and here lyes the great difficulty, how Chriſtian liberty may be preſerved without open<g ref="char:EOLhyphen"/>ing a door unto licentiouſneſſe: how licentiouſneſſe may be ſup<g ref="char:EOLhyphen"/>preſſed, and no door opened unto tyranny: how the major part ſhould rule the leſſe, and yet if the major part be worſe, how the worſe ſhould not rule the better.</p>
+            <pb n="43" facs="tcp:113372:24" rendition="simple:additions"/>
+            <p> In all this worke be cloathed with humility,<note place="margin">
+                  <hi>Rule</hi> 3. Gal. 5.26. P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l. 2.3.</note> let none <hi>be de<g ref="char:EOLhyphen"/>ſirous of vain-glory, provoking one another, envying one ano<g ref="char:EOLhyphen"/>ther, let not any thing be done through ſtrife or vain-glory, but in lowlineſſe of minde, let each eſteem another better then him<g ref="char:EOLhyphen"/>ſelf: Let us not look every man on his own things, but every man alſo on the things of others, that the ſame minde may be in us that was in Chriſt Jeſus our Lord;</hi> this lowlineſſe of minde God requires in ſtead of all offerings: and as the Greek Oratour ſaid of Pronunciation in the point of Eloquence, ſo is humility in pra<g ref="char:EOLhyphen"/>cticall Chriſtianity; The firſt part is <hi>humility,</hi> the ſecond hu<g ref="char:EOLhyphen"/>mility, the third humility; and if you ſhould aske me, ſaith <hi>Auſtin,</hi> a thouſand times, I would anſwer, humility, that humility may go before, and accompany, and follow upon all the things we do well: That it may be propounded, for the eye of the ſoul to ſee it; that it may be applied to the heart to cleave to it; that it may be impoſed upon the ſpirit, that begins to rejoyce in things done well, to bal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce the ſoul, to keep it <hi>from ſwelling,</hi> or <hi>ſinking,</hi> that when <hi>ſincerity has got the victory, pride may not ſteal away the triumph.</hi>
+            </p>
+            <p>Be you <hi>lift up in the waies of God,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Rule </seg>4</label> that you may <hi>ſerve God in this your generation</hi> with all integrity; <hi>Lift up your heads, O ye gates, and be ye lift up, ye everlasting doors, and the King of glo<g ref="char:EOLhyphen"/>ry ſhall come in;</hi> this will make us active for God, when we be<g ref="char:EOLhyphen"/>hold his greatneſſe; and when we have done all we can, this will preſerve us from <hi>being lifted up</hi> in our ſelves; when we look up<g ref="char:EOLhyphen"/>on his infinitneſſe,<note place="margin">Iſa. 40.16.</note> to whom <hi>all Lebanon is not ſufficient to burn, nor all the beaſts of the foreſt ſufficient for a burnt-ſacri<g ref="char:EOLhyphen"/>fice;</hi> therefore let us all endeavour to lift up God above our ſelves, and above all creatures, who hath been <hi>our glory,</hi>
+               <note place="margin">pſal. 3.3.</note> 
+               <hi>our ſtrength, and the lifter up of our heads.</hi>
+            </p>
+            <p>Have your eye upon eternity, <label type="milestone">
+                  <seg type="milestoneunit">Rule </seg>5</label> that you may be ſincere and without offence to the day of the coming of the Lord, that in that great day, when mens hearts <hi>ſhall fail them with fear in looking</hi> for the things that are coming upon the world; the Lord may ſingle out you, and ſay, <hi>lift up now your heads,</hi>
+               <note place="margin">Luk. 11.18.</note> 
+               <hi>for the day of your redemption draws nigh.</hi> When you ſhall be made higher then the clouds, the ſoul for <hi>ever lifted up,</hi> and yet the heart <hi>ever kept humble. Paul</hi> was exalted with revelations, but when
+<pb n="44" facs="tcp:113372:25"/>your ſouls ſhall be made perfect, you ſhall not only have the ſame <hi>revelation,</hi> but the <hi>fruition</hi> and <hi>enjoyment</hi> of thoſe things that <hi>it is not poſſible for any man to utter:</hi>
+               <note place="margin">2 Cor. 12.4, 7.</note> And yet <hi>never be exalt<g ref="char:EOLhyphen"/>ed, either by the abundance of revelations,</hi> nor with <hi>the perfect<g ref="char:EOLhyphen"/>neſſe of fruitions;</hi> When the grace of <hi>redemption</hi> ſhall carry you <hi>higher,</hi> and make your <hi>condition ſafer,</hi> then the grace of <hi>creation</hi> made <hi>Adam</hi> when he was in Paradiſe, or the Angels in Heaven, who left their own habitation, and are reſerved in everlaſting chains in utter darkeneſſe to the judgement of the great day; where we ſhall have peace without war, and joy without grief, where, as <hi>Auſtin</hi> ſaith, there ſhall be a day without evening, where your Sun ſhall never ſet, nor your Moon go down, where your light ſhall be cleer, without any poſſibility of errour, for we ſhall ſee him as he is,<note place="margin">Vocabimus &amp; vi lebimus: vi<g ref="char:EOLhyphen"/>debimus &amp; a<g ref="char:EOLhyphen"/>malimus, ama<g ref="char:EOLhyphen"/>bimus &amp; lau<g ref="char:EOLhyphen"/>dabimus <hi>Aug.</hi> de Civit. Dei.</note> where our love ſhall be perfect without any mixture of ſelf-ſeeking, for Chriſt ſhall be all in all, where we ſhall have an eternall Sabbath, where we ſhall reſt in his boſom and ever ſee him, ſee him and ever love him, love him and ever praiſe him, and never be weary in admiring and adoring him to all eternity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
